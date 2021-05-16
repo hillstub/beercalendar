@@ -27,7 +27,16 @@ jobs:
         pip install -r requirements.txt
     - name: Run script
       env:
-        GSPREAD_TYPE: "testje"
+        GSPREAD_TYPE: ${{ secrets.GSPREAD_TYPE}}
+        GSPREAD_PROJECT_ID: ${{ secrets.GSPREAD_PROJECT_ID}}
+        GSPREAD_PRIVATE_KEY_ID: ${{ secrets.GSPREAD_PRIVATE_KEY_ID}}
+        GSPREAD_PRIVATE_KEY: ${{ secrets.GSPREAD_PRIVATE_KEY}}
+        GSPREAD_CLIENT_EMAIL: ${{ secrets.GSPREAD_CLIENT_EMAIL}}
+        GSPREAD_CLIENT_ID: ${{ secrets.GSPREAD_CLIENT_ID}}
+        GSPREAD_AUTH_URI: ${{ secrets.GSPREAD_AUTH_URI}}
+        GSPREAD_TOKEN_URI: ${{ secrets.GSPREAD_TOKEN_URI}}
+        GSPREAD_AUTH_PROVIDER_X509_CERT_URL: ${{ secrets.GSPREAD_AUTH_PROVIDER_X509_CERT_URL}}
+        GSPREAD_CLIENT_X509_CERT_URL: ${{ secrets.GSPREAD_CLIENT_X509_CERT_URL}}       
       run: python get_gsheets_posts.py
 
     # Standard usage
