@@ -4,13 +4,35 @@ import os
 print("===== get posts from gsheet ===")
 print(os.environ["GSPREAD_TYPE"])
 
+gspread_creds = {
+  "type": os.environ["GSPREAD_TYPE"],
+  "project_id": os.environ["GSPREAD_PROJECT_ID"],
+  "private_key_id": os.environ["GSPREAD_PRIVATE_KEY_ID"],
+  "private_key": os.environ["GSPREAD_PRIVATE_KEY"],
+  "client_email": os.environ["GSPREAD_CLIENT_EMAIL"],
+  "client_id": os.environ["GSPREAD_CLIENT_ID"],
+  "auth_uri": os.environ["GSPREAD_AUTH_URI"],
+  "token_uri": os.environ["GSPREAD_TOKEN_URI"],
+  "auth_provider_x509_cert_url": os.environ["GSPREAD_AUTH_PROVIDER_X509_CERT_URL"],
+  "client_x509_cert_url": os.environ["GSPREAD_CLIENT_X509_CERT_URL"]
+}
 
-filename = "2021-05-15-hallo.markdown"
-f = open(f"_posts/{filename}", "w")
-f.write('''---
-layout: post
-title:  "Welcome to Jekyll!"
----
+
+gc = gspread.service_account_from_dict(credentials)
+
+sh = gc.open("BeerCalendar")
+
+ws = sh.get_worksheet("Beers")
+
+rows = ws.get_all_records()
+
+for row in row:
+  filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
+  f = open(f"_posts/{filename}", "w")
+  f.write("---")
+  f.write("layout: post")
+  f.write(f"title:  '{row['Biernaam']}'")
+  f.write('''---
 
 # Welcome Mens
 
@@ -18,4 +40,4 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 ''')
-f.close()
+  f.close()
