@@ -31,9 +31,9 @@ rows = ws.get_all_records()
 for row in rows:
   filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
   f = open(f"_posts/{filename}", "w")
-  f.write("---")
-  f.write("layout: post")
-  f.write(f"title:  '{row['Biernaam']}'")
+  f.write("---\n")
+  f.write("layout: post\n")
+  f.write(f"title:  '{row['Biernaam']}'\n")
   f.write('''---
 
 # Welcome test
