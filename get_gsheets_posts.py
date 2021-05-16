@@ -34,6 +34,7 @@ for row in rows:
   f.write("---\n")
   f.write("layout: post\n")
   f.write(f"title:  '{row['Biernaam']}'\n")
+  f.write(f"permalink:  '/day/{row['Dag']}'\n")
   f.write('''---
 
 # Welcome test
