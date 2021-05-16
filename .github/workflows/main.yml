@@ -25,7 +25,7 @@ jobs:
     # Specify the Jekyll source location as a parameter
     - uses: helaili/jekyll-action@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.TEST }}
         jekyll_src: ''
 
     # Specify the target branch (optional)
