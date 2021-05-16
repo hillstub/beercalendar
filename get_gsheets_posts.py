@@ -3,6 +3,8 @@ import os
 
 print("===== get posts from gsheet ===")
 print(os.environ["GSPREAD_TYPE"])
+print(keys(os.environ))
+
 
 gspread_creds = {
   "type": os.environ["GSPREAD_TYPE"],
