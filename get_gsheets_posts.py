@@ -36,7 +36,7 @@ for row in row:
   f.write(f"title:  '{row['Biernaam']}'")
   f.write('''---
 
-# Welcome Mens
+# Welcome test
 
 **Hello world**, this is my first Jekyll blog post.
 
