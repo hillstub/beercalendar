@@ -20,7 +20,7 @@ gspread_creds = {
 }
 
 
-gc = gspread.service_account_from_dict(credentials)
+gc = gspread.service_account_from_dict(gspread_creds)
 
 sh = gc.open("BeerCalendar")
 
