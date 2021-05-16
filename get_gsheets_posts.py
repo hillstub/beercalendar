@@ -24,7 +24,7 @@ gc = gspread.service_account_from_dict(gspread_creds)
 
 sh = gc.open("BeerCalendar")
 
-ws = sh.get_worksheet("Beers")
+ws = sh.worksheet("Beers")
 
 rows = ws.get_all_records()
 
