@@ -20,8 +20,8 @@
 
 
 ###
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Bier Adventskalender
+description: Een prive bier adventskalender
 
 url: https://beercalendar.harmenvanrossum.nl
 paginate_path: "blog/page:num/"
@@ -45,16 +45,18 @@ navigation:
   - title: Contact
     url: /contact
 
+default_locale: "nl"
+
 sass:
   sass_dir: _sass
   style: compressed
 
-social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+#social:
+#  github: brianmaierjr
+#  twitter: brianmaierjr
+#  facebook: brianmaierjr
+#  email: brimaidesigns@gmail.com
+#  linkedin: brianmaierjr
 
 #google_analytics: "UA-58263416-1"
 
