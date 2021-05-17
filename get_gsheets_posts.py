@@ -36,6 +36,7 @@ for row in rows:
   f.write(f"title:  '{row['Biernaam']}'\n")
   f.write(f"permalink:  '/day/{row['Dag']}'\n")
   f.write(f"author:  '{row['Toegevoegd door']}'\n")
+  f.write(f"description:  '{row['Introductie']}'\n")
   f.write("---\n")
   f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n")
   f.write(f"{row['Notitie']}\n")
