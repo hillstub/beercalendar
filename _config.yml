@@ -45,6 +45,10 @@ navigation:
   - title: Contact
     url: /contact
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 social:
   github: brianmaierjr
   twitter: brianmaierjr
