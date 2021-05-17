@@ -35,12 +35,8 @@ for row in rows:
   f.write("layout: post\n")
   f.write(f"title:  '{row['Biernaam']}'\n")
   f.write(f"permalink:  '/day/{row['Dag']}'\n")
-  f.write('''---
-
-# Welcome test
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
-''')
+  f.write(f"author:  '{row['Toegevoegd door']}'\n")
+  f.write("---\n")
+  f.write(f"<p class="intro"><span class="dropcap">{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n")
+  f.write(f"{row['Notitie']}\n")
   f.close()
