@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet massa sapie
 
 Ut nec felis risus. Ut faucibus nunc lectus, a porttitor nulla bibendum et. Aenean blandit eu purus eget volutpat. Praesent nec faucibus nisl. Ut euismod ultrices gravida. Proin malesuada sem varius neque fermentum vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit neque dui, non finibus massa elementum in. Nulla facilisi. In eu maximus diam, nec fermentum lorem.
 
-<figure><img src='assets/img/day_1.jpg' alt=''/> <figcaption>Duvel is een Tripel van 9%, gebrouwen door Moortgat.</figcaption></figure>
+<figure><img src='/assets/img/day_1.jpg' alt=''/> <figcaption>Duvel is een Tripel van 9%, gebrouwen door Moortgat.</figcaption></figure>
