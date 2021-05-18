@@ -63,5 +63,5 @@ for row in rows:
   f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n\n")
   f.write(f"{row['Notitie']}\n\n")
   if os.path.isfile(target_img_file):
-    f.write(f"<figure><img src='{target_img_file}' alt=''/> <figcaption>{row['Biernaam']} is een {row['Biertype']} van {row['Alcohol percentage']}%, gebrouwen door {row['Brouwerij']}.</figcaption></figure>\n")
+    f.write(f"<figure><img src='/{target_img_file}' alt=''/> <figcaption>{row['Biernaam']} is een {row['Biertype']} van {row['Alcohol percentage']}%, gebrouwen door {row['Brouwerij']}.</figcaption></figure>\n")
   f.close()
