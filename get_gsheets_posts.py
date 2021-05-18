@@ -2,6 +2,17 @@
 import os
 import gspread
 
+def get_image_type(url):
+  try:
+    content_type = requests.head(url,allow_redirects=True).headers['Content-Type']
+  except:
+    return False
+  
+  if content_type.startswith("image/"):
+    return content_type
+  else:
+    return False
+
 print("===== get posts from gsheet ===")
 print(os.environ["GSPREAD_TYPE"])
 
@@ -29,7 +40,14 @@ ws = sh.worksheet("Beers")
 rows = ws.get_all_records()
 
 for row in rows:
-  row['Biernaam'] = row['Biernaam'] + " test"
+  image_url = row['Afbeelding']
+  content_type = get_image_type(image_url)
+  if content_type:  
+    image = Image.open(requests.get(image_url, stream=True).raw)
+    image.thumbnail(size=(800,800))
+    image.save(f"assets/img/day_{row['Dag']}.jpg",format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
+
+
   filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
   f = open(f"_posts/{filename}", "w")
   f.write("---\n")

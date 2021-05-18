@@ -38,7 +38,12 @@ jobs:
         GSPREAD_AUTH_PROVIDER_X509_CERT_URL: ${{ secrets.GSPREAD_AUTH_PROVIDER_X509_CERT_URL}}
         GSPREAD_CLIENT_X509_CERT_URL: ${{ secrets.GSPREAD_CLIENT_X509_CERT_URL}}       
       run: python get_gsheets_posts.py
-
+    - name: Commit posts and images
+      run: |
+        git config --global user.name 'Bot'
+        git config --global user.email 'hillstub@users.noreply.github.com'
+        git commit -am "Automated additional posts and images"
+        git push
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       with:
