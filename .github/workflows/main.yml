@@ -46,19 +46,9 @@ jobs:
         git add assets/img/
         git commit -am "Automated additional posts and images"
         git push
-    # Standard usage
-    - uses:  helaili/jekyll-action@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-
-    # Specify the Jekyll source location as a parameter
-    - uses: helaili/jekyll-action@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        jekyll_src: ''
-
     # Specify the target branch (optional)
     - uses: helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_src: ''
         target_branch: 'gh-pages'

@@ -2,6 +2,7 @@
 import os
 import gspread
 import requests
+from PIL import Image
 
 def get_image_type(url):
   try:
