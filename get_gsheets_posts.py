@@ -19,7 +19,8 @@ def get_image_type(url):
     return False
 
 print("===== get posts from gsheet ===")
-print(os.environ["GSPREAD_TYPE"])
+os.makedirs("_posts", exist_ok=True)
+
 
 
 gspread_creds = {
