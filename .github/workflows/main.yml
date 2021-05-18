@@ -1,7 +1,7 @@
 name: Testing the GitHub Pages publication
 
 on:
-  push
+  push:
   schedule:
     - cron: "1 22 * * *"
 
