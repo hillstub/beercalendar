@@ -44,10 +44,11 @@ rows = ws.get_all_records()
 for row in rows:
   image_url = row['Afbeelding']
   content_type = get_image_type(image_url)
+  target_img_file = f"assets/img/day_{row['Dag']}.jpg"
   if content_type:  
     image = Image.open(requests.get(image_url, stream=True).raw)
     image.thumbnail(size=(800,800))
-    image.save(f"assets/img/day_{row['Dag']}.jpg",format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
+    image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
 
 
   filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
@@ -59,6 +60,8 @@ for row in rows:
   f.write(f"author:  '{row['Toegevoegd door']}'\n")
   f.write(f"description:  '{row['Introductie']}'\n")
   f.write("---\n")
-  f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n")
-  f.write(f"{row['Notitie']}\n")
+  f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n\n")
+  f.write(f"{row['Notitie']}\n\n")
+  if os.path.isfile(target_img_file):
+    f.write(f"<figure><img src='{target_img_file}' alt=''/> <figcaption>{row['Biernaam']} is een {row['Biertype']} van {row['Alcohol percentage']}%, gebrouwen door {row['Brouwerij']}.</figcaption></figure>\n")
   f.close()
