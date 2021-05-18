@@ -72,9 +72,9 @@ sass:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude:
-   - get_gsheets_posts.py
-   - requirements.txt
+# exclude:
+#   - get_gsheets_posts.py
+#   - requirements.txt
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
