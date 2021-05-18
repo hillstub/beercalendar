@@ -75,7 +75,6 @@ sass:
  exclude:
    - get_gsheets_posts.py
    - requirements.txt
-   - .nojekyll
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
