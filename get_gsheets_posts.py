@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import gspread
+import requests
 
 def get_image_type(url):
   try:
