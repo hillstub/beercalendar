@@ -55,7 +55,7 @@ for row in rows:
   f = open(f"_posts/{filename}", "w")
   f.write("---\n")
   f.write("layout: post\n")
-  f.write(f"title:  '{row['Biernaam']}'\n")
+  f.write(f"title:  'Dag {row['Dag']} - {row['Biernaam']}'\n")
   f.write(f"permalink:  '/day/{row['Dag']}'\n")
   f.write(f"author:  '{row['Toegevoegd door']}'\n")
   f.write(f"description:  '{row['Introductie']}'\n")
