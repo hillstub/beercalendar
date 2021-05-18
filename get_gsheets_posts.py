@@ -2,7 +2,7 @@
 import os
 import gspread
 import requests
-from datetime import datetime
+import datetime
 
 from PIL import Image
 
@@ -45,7 +45,7 @@ rows = ws.get_all_records()
 
 for row in rows:
   row_date = datetime.date.fromisoformat(row['Datum'])
-  today = datetime.now(pytz.timezone('Europe/Amsterdam')).date()
+  today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
   if row_date <= today:
     image_url = row['Afbeelding']
     content_type = get_image_type(image_url)
