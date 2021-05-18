@@ -29,6 +29,7 @@ ws = sh.worksheet("Beers")
 rows = ws.get_all_records()
 
 for row in rows:
+  row['Biernaam'] = row['Biernaam'] + " test"
   filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
   f = open(f"_posts/{filename}", "w")
   f.write("---\n")
