@@ -2,6 +2,8 @@
 import os
 import gspread
 import requests
+from datetime import datetime
+
 from PIL import Image
 
 def get_image_type(url):
@@ -42,26 +44,29 @@ ws = sh.worksheet("Beers")
 rows = ws.get_all_records()
 
 for row in rows:
-  image_url = row['Afbeelding']
-  content_type = get_image_type(image_url)
-  target_img_file = f"assets/img/day_{row['Dag']}.jpg"
-  if content_type:  
-    image = Image.open(requests.get(image_url, stream=True).raw)
-    image.thumbnail(size=(800,800))
-    image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
+  row_date = datetime.date.fromisoformat(row['Datum'])
+  today = datetime.now(pytz.timezone('Europe/Amsterdam')).date()
+  if row_date <= today:
+    image_url = row['Afbeelding']
+    content_type = get_image_type(image_url)
+    target_img_file = f"assets/img/day_{row['Dag']}.jpg"
+    if content_type:  
+      image = Image.open(requests.get(image_url, stream=True).raw)
+      image.thumbnail(size=(800,800))
+      image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
 
 
-  filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
-  f = open(f"_posts/{filename}", "w")
-  f.write("---\n")
-  f.write("layout: post\n")
-  f.write(f"title:  'Dag {row['Dag']} - {row['Biernaam']}'\n")
-  f.write(f"permalink:  '/day/{row['Dag']}'\n")
-  f.write(f"author:  '{row['Toegevoegd door']}'\n")
-  f.write(f"description:  '{row['Introductie']}'\n")
-  f.write("---\n")
-  f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n\n")
-  f.write(f"{row['Notitie']}\n\n")
-  if os.path.isfile(target_img_file):
-    f.write(f"<figure><img src='/{target_img_file}' alt=''/> <figcaption>{row['Biernaam']} is een {row['Biertype']} van {row['Alcohol percentage']}%, gebrouwen door {row['Brouwerij']}.</figcaption></figure>\n")
-  f.close()
+    filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
+    f = open(f"_posts/{filename}", "w")
+    f.write("---\n")
+    f.write("layout: post\n")
+    f.write(f"title:  'Dag {row['Dag']} - {row['Biernaam']}'\n")
+    f.write(f"permalink:  '/day/{row['Dag']}'\n")
+    f.write(f"author:  '{row['Toegevoegd door']}'\n")
+    f.write(f"description:  '{row['Introductie']}'\n")
+    f.write("---\n")
+    f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n\n")
+    f.write(f"{row['Notitie']}\n\n")
+    if os.path.isfile(target_img_file):
+      f.write(f"<figure><img src='/{target_img_file}' alt=''/> <figcaption>{row['Biernaam']} is een {row['Biertype']} van {row['Alcohol percentage']}%, gebrouwen door {row['Brouwerij']}.</figcaption></figure>\n")
+    f.close()
