@@ -4,7 +4,7 @@ on:
   push:
   schedule:
     - cron: "15 22 * * *"
-
+  workflow_dispatch:
 jobs:
   jekyll:
     runs-on: ubuntu-latest
