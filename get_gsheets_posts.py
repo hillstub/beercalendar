@@ -4,6 +4,7 @@ import gspread
 import requests
 import datetime
 import pytz
+import glob
 
 from PIL import Image
 
@@ -45,6 +46,13 @@ ws = sh.worksheet("Beers")
 
 rows = ws.get_all_records()
 
+old_posts = glob.glob('_posts/*.gs.markdown')
+for old_post in old_posts:
+  try:
+      os.remove(old_post)
+  except:
+      print("Error while deleting file : ", filePath)
+
 for row in rows:
   row_date = datetime.date.fromisoformat(row['Datum'])
   today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
@@ -58,7 +66,7 @@ for row in rows:
       image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
 
 
-    filename = f"{row['Datum']}-{row['Biernaam']}.markdown"
+    filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
     f.write("layout: post\n")
