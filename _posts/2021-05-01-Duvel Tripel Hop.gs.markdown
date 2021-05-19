@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Dag 1 - Duvel Tripel Hop'
+permalink:  '/day/1'
+author:  'Harmen van Rossum'
+description:  'Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.'
+---
+<p class='intro'><span class='dropcap'>C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet massa sapien, quis ultricies elit sagittis id. Mauris accumsan, dui eu tristique auctor, tellus sem ullamcorper lacus, sed auctor leo libero sed elit. Nam vel arcu sollicitudin, hendrerit sapien maximus, malesuada sapien. Etiam a euismod tortor. Curabitur maximus gravida lorem sit amet accumsan. Mauris tincidunt elit odio, vel sodales arcu malesuada luctus. Praesent faucibus id justo vel dapibus. Ut ut pretium nisi, feugiat fermentum nisi. Donec vel pulvinar dui. Etiam lobortis ex in lectus blandit, vel consectetur leo aliquam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dictum lacus quis nibh posuere, in pretium eros tempus. Integer lobortis sit amet lacus vel pulvinar. Proin lectus orci, mollis ac turpis volutpat, volutpat hendrerit leo. Aliquam lectus eros, sagittis quis turpis non, molestie viverra lectus.
+
+Ut nec felis risus. Ut faucibus nunc lectus, a porttitor nulla bibendum et. Aenean blandit eu purus eget volutpat. Praesent nec faucibus nisl. Ut euismod ultrices gravida. Proin malesuada sem varius neque fermentum vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit neque dui, non finibus massa elementum in. Nulla facilisi. In eu maximus diam, nec fermentum lorem.
+
+<figure><img src='/assets/img/day_1.jpg' alt=''/> <figcaption>Duvel Tripel Hop is een Tripel van 9.5%, gebrouwen door Moortgat brouwerij.</figcaption></figure>
