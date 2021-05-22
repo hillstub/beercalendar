@@ -40,7 +40,7 @@ jobs:
         git add assets/img/
         if [[ "$(git status --porcelain)" != "" ]]; then 
           git commit -am "Automated additional posts and images"
-          git push -f origin HEAD:master
+          git push -f origin HEAD:main
         fi
     # Specify the target branch (optional)
     - uses: helaili/jekyll-action@v2
