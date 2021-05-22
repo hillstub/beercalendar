@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'Dag 2 - NEIPA2'
+title:  'Dag 2 - NEIPA'
 permalink:  '/day/2'
-author:  'Harmen van Rossum'
+author:  'Harmen'
 description:  'Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.'
 ---
 <p class='intro'><span class='dropcap'>C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
@@ -11,4 +11,4 @@ Maecenas ut imperdiet enim. Etiam dignissim porta mi, et tincidunt nulla. Proin 
 
 Maecenas semper congue sagittis. Nam ac cursus massa. Vestibulum in tincidunt augue, sit amet mollis massa. Morbi tincidunt turpis id dui ornare aliquam. Ut ut bibendum mauris, eu rutrum dolor. Praesent bibendum massa eget urna varius, bibendum dignissim tellus interdum. Curabitur euismod enim nec tortor ultrices sagittis ac a enim. Etiam pellentesque diam nibh, ac rutrum lorem aliquet a. Nullam leo dolor, volutpat nec neque in, semper lacinia nisi.
 
-<figure><img src='/assets/img/day_2.jpg' alt=''/> <figcaption>NEIPA2 is een New England IPA van 6%, gebrouwen door Van Rossum's Proost.</figcaption></figure>
+<figure><img src='/assets/img/day_2.jpg' alt=''/> <figcaption>NEIPA is een New England IPA van 6%, gebrouwen door Van Rossum's Proost.</figcaption></figure>
