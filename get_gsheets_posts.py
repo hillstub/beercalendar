@@ -54,7 +54,7 @@ for old_post in old_posts:
       print("Error while deleting file : ", filePath)
 
 for row in rows:
-  if(row_date == ""):
+  if(row['Datum'] == ""):
     continue
   row_date = datetime.date.fromisoformat(row['Datum'])
   today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
