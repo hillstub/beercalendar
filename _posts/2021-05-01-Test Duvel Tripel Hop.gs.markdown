@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Dag 1 - Test Duvel Tripel Hop'
-permalink:  '/day/1'
+title:  'Dag 0 - Test Duvel Tripel Hop'
+permalink:  '/day/0'
 author:  'Harmen'
 description:  'Duvel Tripel Hop Citra is een Strong Ale, gebrouwen door Duvel Moortgat uit de categorie Blond en Krachtig. Sinds 2017 in het vast assortiment.'
 ---
@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet massa sapie
 
 Ut nec felis risus. Ut faucibus nunc lectus, a porttitor nulla bibendum et. Aenean blandit eu purus eget volutpat. Praesent nec faucibus nisl. Ut euismod ultrices gravida. Proin malesuada sem varius neque fermentum vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit neque dui, non finibus massa elementum in. Nulla facilisi. In eu maximus diam, nec fermentum lorem.
 
-<figure><img src='/assets/img/day_1.jpg' alt=''/> <figcaption>Test Duvel Tripel Hop is een Blond van 9.5%, gebrouwen door Duvel Moortgat Brouwerij.</figcaption></figure>
+<figure><img src='/assets/img/day_0.jpg' alt=''/> <figcaption>Test Duvel Tripel Hop is een Blond van 9.5%, gebrouwen door Duvel Moortgat Brouwerij.</figcaption></figure>
