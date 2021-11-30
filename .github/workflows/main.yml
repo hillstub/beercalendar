@@ -3,7 +3,7 @@ name: Testing the GitHub Pages publication
 on:
   push:
   schedule:
-    - cron: "15 22 * * *"
+    - cron: "0 12 * * *"
   repository_dispatch:
     types: run_workflow
 jobs:
