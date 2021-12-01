@@ -63,7 +63,7 @@ for row in rows:
     content_type = get_image_type(image_url)
     target_img_file = f"assets/img/day_{row['Dag']}.jpg"
     if content_type:  
-      image = Image.open(requests.get(image_url, stream=True).raw)
+      image = Image.open(requests.get(image_url, stream=True).raw).convert('RGB')
       image.thumbnail(size=(800,800))
       image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
 
