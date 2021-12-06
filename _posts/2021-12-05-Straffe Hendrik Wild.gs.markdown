@@ -14,4 +14,4 @@ De standaard 'Straffe Hendrik' is gewoon een degelijke tripel die jullie al wel 
 **Tip**: Proef er een normale Straffe Hendrik naast.
 **Vraag**: Welke andere bieren ken je met deze typische *Brettanomyces* smaak?
 
-<figure><img src='/assets/img/day_5.jpg' alt=''/> <figcaption>Straffe Hendrik Wild is een Tripel van 9%, gebrouwen door de Halve Maan.</figcaption></figure>
+<figure><img src='/assets/img/day_5.jpg' alt=''/> <figcaption>Straffe Hendrik Wild is een Tripel van 10%, gebrouwen door de Halve Maan.</figcaption></figure>
