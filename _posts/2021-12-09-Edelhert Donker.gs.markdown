@@ -14,3 +14,4 @@ Die verwachting wordt wat mij betreft waargemaakt door de jongens van de Heidebr
 
 De reden dat ik dit bier gekozen heb, is dat het een bier is dat ik goed vind passen bij een koude decembermaand. Daarnaast is het gebrouwen in mijn geboorteplaats, Ede, wat een leuke bijkomstigheid is. En als inwoner van Apeldoorn (de hoofdstad van de Veluwe) voel ik mij ook aangesproken door deze ode aan de Veluwse bossen en haar inwoners.
 
+<figure><img src='/assets/img/day_9.jpg' alt=''/> <figcaption>Edelhert Donker is een Belgisch Quadrupel van 9%, gebrouwen door De Heidebrouwerij.</figcaption></figure>
