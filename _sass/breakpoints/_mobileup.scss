@@ -220,33 +220,23 @@ POST STYLING
 	}
 
 	blockquote {
-		clear: both;
-		margin: 2.5em 0;
-		padding: 0;
-		line-height: 1.8;
-		position: relative;
+	  text-indent: -2em;
+	  quotes: "“" "”" "‘" "’";
+	}
 
-		&:before {
-			content: "";
-			position: absolute;
-			top: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
-		}
 
-		&:after {
-			content: "";
-			position: absolute;
-			bottom: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
-		}
+	blockquote::before {
+	  color: #ccc;
+	  content: open-quote;
+	  line-height: 0.0em;
+	  margin-right: 0.075em;
+	  font-size: 4em;
+	  vertical-align: -0.4em;
+	}
+
+	blockquote p {
+	  display: inline;
+	  font-style: italic;
 	}
 
 	.meta {
