@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Dag 12 - Abel's Ale'
+title:  'Dag 12 - Abels Ale'
 permalink:  '/day/12'
 author:  'Harmen'
 description:  'De verse Australische en Nieuw-Zeelandse hopsoorten, met op de achtergrond een subtiele hint van Thaidragon-pepers maken dit bier de belichaming van de ontdekkingsreizen van Abel Tasman.'
@@ -11,4 +11,4 @@ Aldus de beschrijving van de brouwers van Bax Brewery. Sinds begin december zijn
 
 Volgens het label is dit een Pacific IPA, waarschijnlijk omdat er vooral Australische en Nieuw-Zeelandse hopsoorten zijn gebruikt. Ikzelf zou het gewoon een New-England IPA noemen - misschien leuk om naast de NEIPA van [dag 4](https://beercalendar.harmenvanrossum.nl/day/4), "The Juicy Punch", te leggen. In mijn beleving is dit bier ietsjes ronder en gebalanceerder: de aromatische hopgeuren (citrus, mango) en -smaken worden mooi aangevuld met wat moutigheid. Ik ben benieuwd naar jullie ervaringen!
 
-<figure><img src='/assets/img/day_12.jpg' alt=''/> <figcaption>Abel's Ale is een Indian Pale Ale van 7.8%, gebrouwen door Baxbier Brewery.</figcaption></figure>
+<figure><img src='/assets/img/day_12.jpg' alt=''/> <figcaption>Abels Ale is een Indian Pale Ale van 7.8%, gebrouwen door Baxbier Brewery.</figcaption></figure>
