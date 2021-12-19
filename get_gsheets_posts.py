@@ -63,10 +63,8 @@ for row in rows:
   today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
   if row_date <= today:
     image_url = row['Afbeelding']
-    print(f"image_url: {image_url}")
-    content_type = get_image_type(image_url)
     target_img_file = f"assets/img/day_{row['Dag']}.jpg"
-    if content_type:
+    try:
       image = Image.open(io.BytesIO(requests.get(image_url, stream=True).content)).convert('RGBA')
       image.thumbnail(size=(800,800))
 
@@ -74,6 +72,8 @@ for row in rows:
       output_image.paste(image, mask=image)
       output_image.convert("RGB").save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
       print(f"Saved {image_url} to {target_img_file}")
+    except:
+      print(f"Failed to save {image_url} to {target_img_file}")
     filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
