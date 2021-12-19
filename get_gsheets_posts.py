@@ -64,11 +64,13 @@ for row in rows:
     content_type = get_image_type(image_url)
     target_img_file = f"assets/img/day_{row['Dag']}.jpg"
     if content_type:  
-      image = Image.open(io.BytesIO(requests.get(image_url, stream=True).content)).convert('RGB')
+      image = Image.open(io.BytesIO(requests.get(image_url, stream=True).content)).convert('RGBA')
       image.thumbnail(size=(800,800))
-      image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
 
-
+      output_image = Image.new("RGBA", image.size, "WHITE")
+      output_image.paste(image, mask=image)
+      output_image.convert("RGB")
+      output_image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
     filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
