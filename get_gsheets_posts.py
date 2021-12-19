@@ -69,8 +69,7 @@ for row in rows:
 
       output_image = Image.new("RGBA", image.size, "WHITE")
       output_image.paste(image, mask=image)
-      output_image.convert("RGB")
-      output_image.save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
+      output_image.convert("RGB").save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
     filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
