@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Dag 19 - Tank 7'
+permalink:  '/day/19'
+author:  'Harmen'
+description:  'De Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma’s en een droge afdronk.'
+---
+<p class='intro'><span class='dropcap'>D</span>e Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma’s en een droge afdronk.</p>
+
+TBD
+
+<figure><img src='/assets/img/day_19.jpg' alt=''/> <figcaption>Tank 7 is een Amerikaanse Saison van 8.5%, gebrouwen door Boulevard Brewing Co..</figcaption></figure>
