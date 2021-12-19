@@ -12,7 +12,6 @@ from PIL import Image
 def get_image_type(url):
   try:
     headers = requests.head(url,allow_redirects=True).headers
-    print(headers)
     content_type = headers['Content-Type']
   except:
     return False
@@ -20,6 +19,7 @@ def get_image_type(url):
   if content_type.startswith("image/"):
     return content_type
   else:
+    print(requests.get(url,allow_redirects=True).content) 
     return False
 
 print("===== get posts from gsheet ===")
