@@ -11,7 +11,9 @@ from PIL import Image
 
 def get_image_type(url):
   try:
-    content_type = requests.head(url,allow_redirects=True).headers['Content-Type']
+    headers = requests.head(url,allow_redirects=True).headers
+    print(headers)
+    content_type = headers['Content-Type']
   except:
     return False
   
@@ -63,21 +65,14 @@ for row in rows:
     image_url = row['Afbeelding']
     print(f"image_url: {image_url}")
     content_type = get_image_type(image_url)
-    print(content_type)
     target_img_file = f"assets/img/day_{row['Dag']}.jpg"
     if content_type:
-      print(".")
       image = Image.open(io.BytesIO(requests.get(image_url, stream=True).content)).convert('RGBA')
-      print(".")
       image.thumbnail(size=(800,800))
-      print(".")
 
       output_image = Image.new("RGBA", image.size, "WHITE")
-      print(".")
       output_image.paste(image, mask=image)
-      print(".")
       output_image.convert("RGB").save(target_img_file,format="JPEG",optimize=True)                  #Enregistre l'image dans le buffer
-      print(".")
       print(f"Saved {image_url} to {target_img_file}")
     filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
     f = open(f"_posts/{filename}", "w")
