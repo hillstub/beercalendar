@@ -14,3 +14,4 @@ Iedereen die wel een bier drinkt kent de Skuumkoppe van de Texelse Bierbrouwerij
 
 Ik vind dit een erg lekker biertje. Het drinkt redelijk makkelijk weg en heeft een lekker moutige smaak. Ik hoop dat jullie er net zo over denken. Geniet ervan!
 
+<figure><img src='/assets/img/day_16.jpg' alt=''/> <figcaption>Vuurbaak is een Ierse Red Ale van 5.5%, gebrouwen door Texelse Bierbrouwerij.</figcaption></figure>
