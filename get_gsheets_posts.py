@@ -7,7 +7,7 @@ import pytz
 import glob
 import io
 import re
-import json
+
 
 from PIL import Image
 
@@ -84,10 +84,10 @@ for row in rows:
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
     f.write("layout: post\n")
-    f.write(f"title:  'Dag {row['Dag']} - {json.dumps(row['Biernaam'])}'\n")
-    f.write(f"permalink:  '/day/{json.dumps(row['Dag'])}'\n")
-    f.write(f"author:  '{json.dumps(row['Toegevoegd door'])}'\n")
-    f.write(f"description:  '{json.dumps(row['Introductie'])}'\n")
+    f.write(f"title: >\n  Dag {row['Dag']} - {row['Biernaam']}\n")
+    f.write(f"permalink:  '/day/{row['Dag']}'\n")
+    f.write(f"author:  '{row['Toegevoegd door']}'\n")
+    f.write(f"description: >\n  {row['Introductie']}\n")
     f.write("---\n")
     f.write(f"<p class='intro'><span class='dropcap'>{row['Introductie'][0]}</span>{row['Introductie'][1:]}</p>\n\n")
     f.write(f"{row['Notitie']}\n\n")
