@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 25 - "TDH Citra Lupomax, Spectrum, Cryo, BBC IPA"'
+title: >
+  Dag 25 - TDH Citra Lupomax, Spectrum, Cryo, BBC IPA
 permalink:  '/day/25'
-author:  '"Jilbert"'
-description:  '"Een fris, citrus en hoppig biertje uit Riga, Letland!"'
+author:  'Jilbert'
+description: >
+  Een fris, citrus en hoppig biertje uit Riga, Letland!
 ---
 <p class='intro'><span class='dropcap'>E</span>en fris, citrus en hoppig biertje uit Riga, Letland!</p>
 

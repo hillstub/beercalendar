@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 9 - "Edelhert Donker"'
+title: >
+  Dag 9 - Edelhert Donker
 permalink:  '/day/9'
-author:  '"Jaap"'
-description:  '"Een prachtig zwaar en edel bier om rustig van te genieten."'
+author:  'Jaap'
+description: >
+  Een prachtig zwaar en edel bier om rustig van te genieten.
 ---
 <p class='intro'><span class='dropcap'>E</span>en prachtig zwaar en edel bier om rustig van te genieten.</p>
 

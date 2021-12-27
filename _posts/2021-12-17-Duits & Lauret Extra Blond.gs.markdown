@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  'Dag 17 - "Duits & Lauret Extra Blond"'
+title: >
+  Dag 17 - Duits & Lauret Extra Blond
 permalink:  '/day/17'
-author:  '"Jan-Willem"'
-description:  '"Duits & Lauret Extra Blond is niet zomaar een Blond. Het is een degustatiebier, ofwel een bier waar je even de tijd voor moet nemen. \n"'
+author:  'Jan-Willem'
+description: >
+  Duits & Lauret Extra Blond is niet zomaar een Blond. Het is een degustatiebier, ofwel een bier waar je even de tijd voor moet nemen. 
+
 ---
 <p class='intro'><span class='dropcap'>D</span>uits & Lauret Extra Blond is niet zomaar een Blond. Het is een degustatiebier, ofwel een bier waar je even de tijd voor moet nemen. 
 </p>

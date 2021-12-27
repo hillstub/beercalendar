@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 7 - "Gigantic Sailor"'
+title: >
+  Dag 7 - Gigantic Sailor
 permalink:  '/day/7'
-author:  '"Eelke"'
-description:  '"Biologische hopgekte in een glas. Amerikaanse hoppen maken dit bier uitgepsproken fruitig. En lekker zoet."'
+author:  'Eelke'
+description: >
+  Biologische hopgekte in een glas. Amerikaanse hoppen maken dit bier uitgepsproken fruitig. En lekker zoet.
 ---
 <p class='intro'><span class='dropcap'>B</span>iologische hopgekte in een glas. Amerikaanse hoppen maken dit bier uitgepsproken fruitig. En lekker zoet.</p>
 

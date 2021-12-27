@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 14 - "Gooische Bubbel"'
+title: >
+  Dag 14 - Gooische Bubbel
 permalink:  '/day/14'
-author:  '"Eelke"'
-description:  '"Sprankelende weelde in een flesje"'
+author:  'Eelke'
+description: >
+  Sprankelende weelde in een flesje
 ---
 <p class='intro'><span class='dropcap'>S</span>prankelende weelde in een flesje</p>
 

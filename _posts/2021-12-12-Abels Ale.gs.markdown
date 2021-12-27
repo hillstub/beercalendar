@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 12 - "Abels Ale"'
+title: >
+  Dag 12 - Abels Ale
 permalink:  '/day/12'
-author:  '"Harmen"'
-description:  '"De verse Australische en Nieuw-Zeelandse hopsoorten, met op de achtergrond een subtiele hint van Thaidragon-pepers maken dit bier de belichaming van de ontdekkingsreizen van Abel Tasman."'
+author:  'Harmen'
+description: >
+  De verse Australische en Nieuw-Zeelandse hopsoorten, met op de achtergrond een subtiele hint van Thaidragon-pepers maken dit bier de belichaming van de ontdekkingsreizen van Abel Tasman.
 ---
 <p class='intro'><span class='dropcap'>D</span>e verse Australische en Nieuw-Zeelandse hopsoorten, met op de achtergrond een subtiele hint van Thaidragon-pepers maken dit bier de belichaming van de ontdekkingsreizen van Abel Tasman.</p>
 

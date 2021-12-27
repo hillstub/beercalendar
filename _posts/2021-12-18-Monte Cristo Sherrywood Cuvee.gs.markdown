@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 18 - "Monte Cristo Sherrywood Cuvee"'
+title: >
+  Dag 18 - Monte Cristo Sherrywood Cuvee
 permalink:  '/day/18'
-author:  '"Jilbert"'
-description:  '"Een donker biertje met noot en vanille smaak."'
+author:  'Jilbert'
+description: >
+  Een donker biertje met noot en vanille smaak.
 ---
 <p class='intro'><span class='dropcap'>E</span>en donker biertje met noot en vanille smaak.</p>
 

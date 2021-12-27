@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 15 - "Kuitenbijter"'
+title: >
+  Dag 15 - Kuitenbijter
 permalink:  '/day/15'
-author:  '"Martin"'
-description:  '"De Kuitenbijter is een Engelse Pale Ale. Deze blonde doordrinker is met 3 granen en met 3 hoppen gebrouwen voor de fietsstad Houten. Een frisse dorstlesser die smaakt naar meer. "'
+author:  'Martin'
+description: >
+  De Kuitenbijter is een Engelse Pale Ale. Deze blonde doordrinker is met 3 granen en met 3 hoppen gebrouwen voor de fietsstad Houten. Een frisse dorstlesser die smaakt naar meer. 
 ---
 <p class='intro'><span class='dropcap'>D</span>e Kuitenbijter is een Engelse Pale Ale. Deze blonde doordrinker is met 3 granen en met 3 hoppen gebrouwen voor de fietsstad Houten. Een frisse dorstlesser die smaakt naar meer. </p>
 

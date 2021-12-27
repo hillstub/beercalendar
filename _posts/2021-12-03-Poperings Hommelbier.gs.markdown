@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 3 - "Poperings Hommelbier"'
+title: >
+  Dag 3 - Poperings Hommelbier
 permalink:  '/day/3'
-author:  '"Jan-Willem"'
-description:  '"Hommel is in Vlaanderen niet alleen een dier maar ook hop. In de Vlaamse Westhoek, waar ook Westvleteren terug te vinden is, zijn veel van die plantages waar hop vandaan komt. Dit hoppige hommelbiertje komt daar dus vandaan."'
+author:  'Jan-Willem'
+description: >
+  Hommel is in Vlaanderen niet alleen een dier maar ook hop. In de Vlaamse Westhoek, waar ook Westvleteren terug te vinden is, zijn veel van die plantages waar hop vandaan komt. Dit hoppige hommelbiertje komt daar dus vandaan.
 ---
 <p class='intro'><span class='dropcap'>H</span>ommel is in Vlaanderen niet alleen een dier maar ook hop. In de Vlaamse Westhoek, waar ook Westvleteren terug te vinden is, zijn veel van die plantages waar hop vandaan komt. Dit hoppige hommelbiertje komt daar dus vandaan.</p>
 

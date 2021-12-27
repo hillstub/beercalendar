@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 22 - "Zwarte Snorre"'
+title: >
+  Dag 22 - Zwarte Snorre
 permalink:  '/day/22'
-author:  '"Martin"'
-description:  '"Twents imperial stout (11%), gerijpt op Vat#50 - Ardbeg whisky."'
+author:  'Martin'
+description: >
+  Twents imperial stout (11%), gerijpt op Vat#50 - Ardbeg whisky.
 ---
 <p class='intro'><span class='dropcap'>T</span>wents imperial stout (11%), gerijpt op Vat#50 - Ardbeg whisky.</p>
 

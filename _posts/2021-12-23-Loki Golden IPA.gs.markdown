@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  'Dag 23 - "Loki Golden IPA"'
+title: >
+  Dag 23 - Loki Golden IPA
 permalink:  '/day/23'
-author:  '"Jaap"'
-description:  '"Een lekkere IPA, waarvan in ieder geval de naam, de Vaccaeanen onder ons moet aanspreken."'
+author:  'Jaap'
+description: >
+  Een lekkere IPA, waarvan in ieder geval de naam, de Vaccaeanen onder ons moet aanspreken.
 ---
 <p class='intro'><span class='dropcap'>E</span>en lekkere IPA, waarvan in ieder geval de naam, de Vaccaeanen onder ons moet aanspreken.</p>
 
