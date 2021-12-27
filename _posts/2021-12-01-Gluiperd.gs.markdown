@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 1 - Gluiperd'
+title:  'Dag 1 - "Gluiperd"'
 permalink:  '/day/1'
-author:  'Martin'
-description:  'De Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van ‘t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten.'
+author:  '"Martin"'
+description:  '"De Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van \u2018t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten."'
 ---
 <p class='intro'><span class='dropcap'>D</span>e Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van ‘t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten.</p>
 

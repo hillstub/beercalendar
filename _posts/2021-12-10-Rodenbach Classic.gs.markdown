@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 10 - Rodenbach Classic'
+title:  'Dag 10 - "Rodenbach Classic"'
 permalink:  '/day/10'
-author:  'Jan-Willem'
-description:  'Verfrissend biertje met een zuurtje erin. Dit biertype heet Vlaams Rood en naar het schijnt is Rodenbach een van de weinige brouwerijen die dit maakt.'
+author:  '"Jan-Willem"'
+description:  '"Verfrissend biertje met een zuurtje erin. Dit biertype heet Vlaams Rood en naar het schijnt is Rodenbach een van de weinige brouwerijen die dit maakt."'
 ---
 <p class='intro'><span class='dropcap'>V</span>erfrissend biertje met een zuurtje erin. Dit biertype heet Vlaams Rood en naar het schijnt is Rodenbach een van de weinige brouwerijen die dit maakt.</p>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 16 - Vuurbaak'
+title:  'Dag 16 - "Vuurbaak"'
 permalink:  '/day/16'
-author:  'Jaap'
-description:  'Een minder bekend bier van een bekende brouwer. Vol rood en lekker moutig.'
+author:  '"Jaap"'
+description:  '"Een minder bekend bier van een bekende brouwer. Vol rood en lekker moutig."'
 ---
 <p class='intro'><span class='dropcap'>E</span>en minder bekend bier van een bekende brouwer. Vol rood en lekker moutig.</p>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 2 - Stoere Snor'
+title:  'Dag 2 - "Stoere Snor"'
 permalink:  '/day/2'
-author:  'Jaap'
-description:  'Een fruitige IPA. Minder hoppig dan je van een IPA gewend bent.'
+author:  '"Jaap"'
+description:  '"Een fruitige IPA. Minder hoppig dan je van een IPA gewend bent."'
 ---
 <p class='intro'><span class='dropcap'>E</span>en fruitige IPA. Minder hoppig dan je van een IPA gewend bent.</p>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 26 - Bloedbroeder'
+title:  'Dag 26 - "Bloedbroeder"'
 permalink:  '/day/26'
-author:  'Harmen'
-description:  'Kompaan Bloedbroeder is een bier met pure kracht. Deze stout combineert geroosterde moutsoorten met Ruby port. Bloedbroeder werd verkozen tot Beste Bier van Nederland tijdens de Dutch Beer Challenge in 2017.'
+author:  '"Harmen"'
+description:  '"Kompaan Bloedbroeder is een bier met pure kracht. Deze stout combineert geroosterde moutsoorten met Ruby port. Bloedbroeder werd verkozen tot Beste Bier van Nederland tijdens de Dutch Beer Challenge in 2017."'
 ---
 <p class='intro'><span class='dropcap'>K</span>ompaan Bloedbroeder is een bier met pure kracht. Deze stout combineert geroosterde moutsoorten met Ruby port. Bloedbroeder werd verkozen tot Beste Bier van Nederland tijdens de Dutch Beer Challenge in 2017.</p>
 

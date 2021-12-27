@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 11 - Cuvée Clarisse Whisky Infused Wild Weasel'
+title:  'Dag 11 - "Cuv\u00e9e Clarisse Whisky Infused Wild Weasel"'
 permalink:  '/day/11'
-author:  'Jilbert'
-description:  'Aromatisch prijswinnend bier. Flink aan de alcohol, dus niet voor de nuchtere maag :-)'
+author:  '"Jilbert"'
+description:  '"Aromatisch prijswinnend bier. Flink aan de alcohol, dus niet voor de nuchtere maag :-)"'
 ---
 <p class='intro'><span class='dropcap'>A</span>romatisch prijswinnend bier. Flink aan de alcohol, dus niet voor de nuchtere maag :-)</p>
 

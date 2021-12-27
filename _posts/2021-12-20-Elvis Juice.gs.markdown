@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 20 - Elvis Juice'
+title:  'Dag 20 - "Elvis Juice"'
 permalink:  '/day/20'
-author:  'Eelco'
-description:  'Soms zijn er van die wonderlijke experimenten die gewoon werken. Elvis juice van BrewDog is er zo een. Een krachtige IPA met meer grapefruit dan je eigenlijk aan kan. Dit bier doet je voor even de decemberkou vergeten en voert je in gedachten naar fijne barbecues op late zomeravonden.'
+author:  '"Eelco"'
+description:  '"Soms zijn er van die wonderlijke experimenten die gewoon werken. Elvis juice van BrewDog is er zo een. Een krachtige IPA met meer grapefruit dan je eigenlijk aan kan. Dit bier doet je voor even de decemberkou vergeten en voert je in gedachten naar fijne barbecues op late zomeravonden."'
 ---
 <p class='intro'><span class='dropcap'>S</span>oms zijn er van die wonderlijke experimenten die gewoon werken. Elvis juice van BrewDog is er zo een. Een krachtige IPA met meer grapefruit dan je eigenlijk aan kan. Dit bier doet je voor even de decemberkou vergeten en voert je in gedachten naar fijne barbecues op late zomeravonden.</p>
 

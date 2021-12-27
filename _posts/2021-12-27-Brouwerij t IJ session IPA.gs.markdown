@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 27 - Brouwerij 't IJ session I.P.A'
+title:  'Dag 27 - "Brouwerij 't IJ session I.P.A"'
 permalink:  '/day/27'
-author:  'Eelco'
-description:  'De session IPA van Brouwerij 't IJ is een bier dat zich kenmerkt door haar lage alcohol percentage (4,0%) en fruitige smaken (Citra en Galaxy hop). Het is zeer makkelijk weg te drinken, en wellicht daardoor echt een bier voor de grote mensen massa. Een bier om te bekomen van al dat zware gedoe in de wereld en op deze kalender.'
+author:  '"Eelco"'
+description:  '"De session IPA van Brouwerij 't IJ is een bier dat zich kenmerkt door haar lage alcohol percentage (4,0%) en fruitige smaken (Citra en Galaxy hop). Het is zeer makkelijk weg te drinken, en wellicht daardoor echt een bier voor de grote mensen massa. Een bier om te bekomen van al dat zware gedoe in de wereld en op deze kalender."'
 ---
 <p class='intro'><span class='dropcap'>D</span>e session IPA van Brouwerij 't IJ is een bier dat zich kenmerkt door haar lage alcohol percentage (4,0%) en fruitige smaken (Citra en Galaxy hop). Het is zeer makkelijk weg te drinken, en wellicht daardoor echt een bier voor de grote mensen massa. Een bier om te bekomen van al dat zware gedoe in de wereld en op deze kalender.</p>
 

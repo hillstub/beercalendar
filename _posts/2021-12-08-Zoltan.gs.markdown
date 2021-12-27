@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 8 - Zoltan'
+title:  'Dag 8 - "Zoltan"'
 permalink:  '/day/8'
-author:  'Martin'
-description:  'Laphroig barrel aged imperial stout (11%) van Van Moll: omdat we even geen whisky drinken.'
+author:  '"Martin"'
+description:  '"Laphroig barrel aged imperial stout (11%) van Van Moll: omdat we even geen whisky drinken."'
 ---
 <p class='intro'><span class='dropcap'>L</span>aphroig barrel aged imperial stout (11%) van Van Moll: omdat we even geen whisky drinken.</p>
 

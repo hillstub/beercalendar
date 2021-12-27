@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 19 - Tank 7'
+title:  'Dag 19 - "Tank 7"'
 permalink:  '/day/19'
-author:  'Harmen'
-description:  'De Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma’s en een droge afdronk.'
+author:  '"Harmen"'
+description:  '"De Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma\u2019s en een droge afdronk."'
 ---
 <p class='intro'><span class='dropcap'>D</span>e Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma’s en een droge afdronk.</p>
 

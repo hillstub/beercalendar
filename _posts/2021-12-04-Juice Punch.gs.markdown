@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 4 - Juice Punch'
+title:  'Dag 4 - "Juice Punch"'
 permalink:  '/day/4'
-author:  'Jilbert'
-description:  'Een fris, tropisch, zomerbiertje. Naast een lekker biertje krijg je er ook nog een mooi etiket bij!'
+author:  '"Jilbert"'
+description:  '"Een fris, tropisch, zomerbiertje. Naast een lekker biertje krijg je er ook nog een mooi etiket bij!"'
 ---
 <p class='intro'><span class='dropcap'>E</span>en fris, tropisch, zomerbiertje. Naast een lekker biertje krijg je er ook nog een mooi etiket bij!</p>
 

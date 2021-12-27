@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 24 - Waard Blond'
+title:  'Dag 24 - "Waard Blond"'
 permalink:  '/day/24'
-author:  'Jan-Willem'
-description:  'Een blond streekbiertje uit de Krimpenerwaard.'
+author:  '"Jan-Willem"'
+description:  '"Een blond streekbiertje uit de Krimpenerwaard."'
 ---
 <p class='intro'><span class='dropcap'>E</span>en blond streekbiertje uit de Krimpenerwaard.</p>
 

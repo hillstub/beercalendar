@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 6 - Duvel Tripel Hop Citra Belgian IPA'
+title:  'Dag 6 - "Duvel Tripel Hop Citra Belgian IPA"'
 permalink:  '/day/6'
-author:  'Eelco'
-description:  'Een klassieker in een nieuw jasje. Door het dry-hoppen met Citra hop (elk jaar een andere derde hopsoort; dit is de 2016 versie) krijgt de Duvel Tripel hop uit Moortgat een nog pittiger en fruitige karakter; verduiveld lekker.. Een goed bier om de sterfdag (6 December) van Sint Nicolaas mee te gedenken.'
+author:  '"Eelco"'
+description:  '"Een klassieker in een nieuw jasje. Door het dry-hoppen met Citra hop (elk jaar een andere derde hopsoort; dit is de 2016 versie) krijgt de Duvel Tripel hop uit Moortgat een nog pittiger en fruitige karakter; verduiveld lekker.. Een goed bier om de sterfdag (6 December) van Sint Nicolaas mee te gedenken."'
 ---
 <p class='intro'><span class='dropcap'>E</span>en klassieker in een nieuw jasje. Door het dry-hoppen met Citra hop (elk jaar een andere derde hopsoort; dit is de 2016 versie) krijgt de Duvel Tripel hop uit Moortgat een nog pittiger en fruitige karakter; verduiveld lekker.. Een goed bier om de sterfdag (6 December) van Sint Nicolaas mee te gedenken.</p>
 

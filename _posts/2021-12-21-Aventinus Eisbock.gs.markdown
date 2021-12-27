@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 21 - Aventinus Eisbock'
+title:  'Dag 21 - "Aventinus Eisbock"'
 permalink:  '/day/21'
-author:  'Eelke'
-description:  'Zware Duitse jongen met tonen van donkerfruit'
+author:  '"Eelke"'
+description:  '"Zware Duitse jongen met tonen van donkerfruit"'
 ---
 <p class='intro'><span class='dropcap'>Z</span>ware Duitse jongen met tonen van donkerfruit</p>
 

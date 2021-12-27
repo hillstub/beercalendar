@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Dag 5 - Straffe Hendrik Wild'
+title:  'Dag 5 - "Straffe Hendrik Wild"'
 permalink:  '/day/5'
-author:  'Harmen'
-description:  'Straffe Hendrik Wild is een wilde variant van de bekende Straffe Hendrik Tripel.'
+author:  '"Harmen"'
+description:  '"Straffe Hendrik Wild is een wilde variant van de bekende Straffe Hendrik Tripel."'
 ---
 <p class='intro'><span class='dropcap'>S</span>traffe Hendrik Wild is een wilde variant van de bekende Straffe Hendrik Tripel.</p>
 
