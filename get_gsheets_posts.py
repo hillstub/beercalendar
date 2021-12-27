@@ -6,6 +6,7 @@ import datetime
 import pytz
 import glob
 import io
+import re
 
 from PIL import Image
 
@@ -74,7 +75,11 @@ for row in rows:
       print(f"Saved {image_url} to {target_img_file}")
     except:
       print(f"Failed to save {image_url} to {target_img_file}")
-    filename = f"{row['Datum']}-{row['Biernaam']}.gs.markdown"
+    
+    biername_safe = re.sub(r'[^\w \-\_&,]', '', row['Biernaam'])
+    biername_safe_trimmed = re.sub(r'[ ]+', ' ', biername_safe)
+    filename = f"{row['Datum']}-{biername_safe_trimmed}.gs.markdown"
+ 
     f = open(f"_posts/{filename}", "w")
     f.write("---\n")
     f.write("layout: post\n")
