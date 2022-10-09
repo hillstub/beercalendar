@@ -1,0 +1,16 @@
+---
+layout: post
+title: >
+  Dag 1 - Gluiperd
+year: 2021
+permalink:  '/post/2021-08-01'
+author:  'Martin'
+description: >
+  De Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van ‘t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten.
+---
+<p class='intro'><span class='dropcap'>D</span>e Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van ‘t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten.</p>
+
+Denkend aan onze studententijd dwalen de gedachten al gauw af naar Vaccae en de omringende boomgaarden op de streken langs de Kromme Rijn. Fruit is lekker en gezond, net als bier natuurlijk. Een combinatie ervan is dan helemaal top, een welkome hulp in de strijd tegen de coronakilo's. Brouwerij Hommeles verwerkt het fruit van de Kromme Rijnstreek in een blond bier: de Gluiperd. Een fruitige tripel, zegt het etiket. En voor de liefhebbers een vleugje koriander. Het kon gekker.
+
+
+<figure><img src='/assets/img/beer_2021-08-01.jpg' alt=''/> <figcaption>Gluiperd is een Tripel van 8%, gebrouwen door Brouwerij Hommeles.</figcaption></figure>
