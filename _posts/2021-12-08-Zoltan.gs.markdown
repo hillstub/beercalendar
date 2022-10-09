@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 8 - Zoltan
 year: 2021
-permalink:  '/day/8'
+permalink:  '/post/2021-12-08'
 author:  'Martin'
 description: >
   Laphroig barrel aged imperial stout (11%) van Van Moll: omdat we even geen whisky drinken.

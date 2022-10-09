@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 20 - Elvis Juice
 year: 2021
-permalink:  '/day/20'
+permalink:  '/post/2021-12-20'
 author:  'Eelco'
 description: >
   Soms zijn er van die wonderlijke experimenten die gewoon werken. Elvis juice van BrewDog is er zo een. Een krachtige IPA met meer grapefruit dan je eigenlijk aan kan. Dit bier doet je voor even de decemberkou vergeten en voert je in gedachten naar fijne barbecues op late zomeravonden.

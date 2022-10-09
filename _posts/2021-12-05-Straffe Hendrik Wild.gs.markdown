@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 5 - Straffe Hendrik Wild
 year: 2021
-permalink:  '/day/5'
+permalink:  '/post/2021-12-05'
 author:  'Harmen'
 description: >
   Straffe Hendrik Wild is een wilde variant van de bekende Straffe Hendrik Tripel.

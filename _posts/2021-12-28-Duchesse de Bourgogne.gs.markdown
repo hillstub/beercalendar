@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 28 - Duchesse de Bourgogne
 year: 2021
-permalink:  '/day/28'
+permalink:  '/post/2021-12-28'
 author:  'Eelke'
 description: >
   Zoet zuur fruitig uniek vlaams bier met Maria op het etiket.

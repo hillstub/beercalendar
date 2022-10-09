@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 23 - Loki Golden IPA
 year: 2021
-permalink:  '/day/23'
+permalink:  '/post/2021-12-23'
 author:  'Jaap'
 description: >
   Een lekkere IPA, waarvan in ieder geval de naam, de Vaccaeanen onder ons moet aanspreken.

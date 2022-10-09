@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 4 - Juice Punch
 year: 2021
-permalink:  '/day/4'
+permalink:  '/post/2021-12-04'
 author:  'Jilbert'
 description: >
   Een fris, tropisch, zomerbiertje. Naast een lekker biertje krijg je er ook nog een mooi etiket bij!

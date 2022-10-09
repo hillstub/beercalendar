@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 15 - Kuitenbijter
 year: 2021
-permalink:  '/day/15'
+permalink:  '/post/2021-12-15'
 author:  'Martin'
 description: >
   De Kuitenbijter is een Engelse Pale Ale. Deze blonde doordrinker is met 3 granen en met 3 hoppen gebrouwen voor de fietsstad Houten. Een frisse dorstlesser die smaakt naar meer. 

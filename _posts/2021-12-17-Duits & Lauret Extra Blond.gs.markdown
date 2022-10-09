@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 17 - Duits & Lauret Extra Blond
 year: 2021
-permalink:  '/day/17'
+permalink:  '/post/2021-12-17'
 author:  'Jan-Willem'
 description: >
   Duits & Lauret Extra Blond is niet zomaar een Blond. Het is een degustatiebier, ofwel een bier waar je even de tijd voor moet nemen. 

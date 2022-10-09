@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 16 - Vuurbaak
 year: 2021
-permalink:  '/day/16'
+permalink:  '/post/2021-12-16'
 author:  'Jaap'
 description: >
   Een minder bekend bier van een bekende brouwer. Vol rood en lekker moutig.

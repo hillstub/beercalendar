@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 6 - Duvel Tripel Hop Citra Belgian IPA
 year: 2021
-permalink:  '/day/6'
+permalink:  '/post/2021-12-06'
 author:  'Eelco'
 description: >
   Een klassieker in een nieuw jasje. Door het dry-hoppen met Citra hop (elk jaar een andere derde hopsoort; dit is de 2016 versie) krijgt de Duvel Tripel hop uit Moortgat een nog pittiger en fruitige karakter; verduiveld lekker.. Een goed bier om de sterfdag (6 December) van Sint Nicolaas mee te gedenken.
