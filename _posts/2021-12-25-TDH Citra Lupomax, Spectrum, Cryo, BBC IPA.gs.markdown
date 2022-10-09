@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 25 - TDH Citra Lupomax, Spectrum, Cryo, BBC IPA
+year: 2021
 permalink:  '/day/25'
 author:  'Jilbert'
 description: >
@@ -18,4 +19,3 @@ Het biertje zelf kenmerkt zich, wat mij betreft, met termen als: citrus, romig e
 Een erg lekker biertje met een mooie herinnering aan Riga!
 
 
-<figure><img src='/assets/img/day_25.jpg' alt=''/> <figcaption>TDH Citra Lupomax, Spectrum, Cryo, BBC IPA is een New England IPA van 7%, gebrouwen door Ārpus Brewing Co., Riga, Letland.</figcaption></figure>

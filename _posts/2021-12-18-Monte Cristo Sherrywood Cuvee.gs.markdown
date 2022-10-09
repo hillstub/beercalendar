@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 18 - Monte Cristo Sherrywood Cuvee
+year: 2021
 permalink:  '/day/18'
 author:  'Jilbert'
 description: >
@@ -20,4 +21,4 @@ Als je te snel drinkt, kom je vanzelf die 11,5% tegen :-)
 
 Andere bieren die deze brouwerij brouwt zijn bekende bieren zoals het eerder gedronken biertje Tripel Karmeliet en Kwak bier (met kenmerkende Kwak glas)
 
-<figure><img src='/assets/img/day_18.jpg' alt=''/> <figcaption>Monte Cristo Sherrywood Cuvee is een Belgian Strong Dark Ale van 11.5%, gebrouwen door Brouwerij Bosteels, BE.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-18.jpg' alt=''/> <figcaption>Monte Cristo Sherrywood Cuvee is een Belgian Strong Dark Ale van 11.5%, gebrouwen door Brouwerij Bosteels, BE.</figcaption></figure>

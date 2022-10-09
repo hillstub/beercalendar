@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 24 - Waard Blond
+year: 2021
 permalink:  '/day/24'
 author:  'Jan-Willem'
 description: >
@@ -17,4 +18,4 @@ Het bier was net op tijd af. De vrijdag voorafgaand aan het verdeelmoment van de
 
 In elk geval goede kerstdagen gewenst!
 
-<figure><img src='/assets/img/day_24.jpg' alt=''/> <figcaption>Waard Blond is een Blond van 6.5%, gebrouwen door Brouwerij 1923.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-24.jpg' alt=''/> <figcaption>Waard Blond is een Blond van 6.5%, gebrouwen door Brouwerij 1923.</figcaption></figure>

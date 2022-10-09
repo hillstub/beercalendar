@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 26 - Bloedbroeder
+year: 2021
 permalink:  '/day/26'
 author:  'Harmen'
 description: >
@@ -15,4 +16,4 @@ Kompaan is een brouwerij in Den Haag en op fietsafstand van ons huis. In 2019 zi
 
 Gelukkig doet dit bier al deze ellende snel weer vergeten. Mijn voorkeur gaat meestal uit naar de wat lichtere biertjes, maar tijdens deze adventskalender ben ik eigenlijk de donkere bieren weer meer gaan waarderen. Dit is een mooi bier om rustig van te genieten bij het haardvuur terwijl de sneeuwvlokken buiten vrolijk naar beneden dwarrelen.
 
-<figure><img src='/assets/img/day_26.jpg' alt=''/> <figcaption>Bloedbroeder is een Imperial Stout van 9.1%, gebrouwen door Kompaan.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-26.jpg' alt=''/> <figcaption>Bloedbroeder is een Imperial Stout van 9.1%, gebrouwen door Kompaan.</figcaption></figure>

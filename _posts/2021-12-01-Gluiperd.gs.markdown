@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 1 - Gluiperd
+year: 2021
 permalink:  '/day/1'
 author:  'Martin'
 description: >
@@ -12,4 +13,4 @@ description: >
 Denkend aan onze studententijd dwalen de gedachten al gauw af naar Vaccae en de omringende boomgaarden op de streken langs de Kromme Rijn. Fruit is lekker en gezond, net als bier natuurlijk. Een combinatie ervan is dan helemaal top, een welkome hulp in de strijd tegen de coronakilo's. Brouwerij Hommeles verwerkt het fruit van de Kromme Rijnstreek in een blond bier: de Gluiperd. Een fruitige tripel, zegt het etiket. En voor de liefhebbers een vleugje koriander. Het kon gekker.
 
 
-<figure><img src='/assets/img/day_1.jpg' alt=''/> <figcaption>Gluiperd is een Tripel van 8%, gebrouwen door Brouwerij Hommeles.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-01.jpg' alt=''/> <figcaption>Gluiperd is een Tripel van 8%, gebrouwen door Brouwerij Hommeles.</figcaption></figure>
