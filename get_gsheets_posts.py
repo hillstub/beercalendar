@@ -65,7 +65,9 @@ for row in rows:
   today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
   if row_date <= today:
     image_url = row['Afbeelding']
-    target_img_file = f"assets/img/day_{row['Dag']}.jpg"
+
+    target_img_file = f"assets/img/beer_{row['Datum']}.jpg"
+    year = row_date.year
     try:
       image = Image.open(io.BytesIO(requests.get(image_url, stream=True).content)).convert('RGBA')
       image.thumbnail(size=(800,800))
@@ -85,6 +87,7 @@ for row in rows:
     f.write("---\n")
     f.write("layout: post\n")
     f.write(f"title: >\n  Dag {row['Dag']} - {row['Biernaam']}\n")
+    f.write(f"year: {year}\n")
     f.write(f"permalink:  '/day/{row['Dag']}'\n")
     f.write(f"author:  '{row['Toegevoegd door']}'\n")
     f.write(f"description: >\n  {row['Introductie']}\n")
