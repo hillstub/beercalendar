@@ -19,3 +19,4 @@ Het biertje zelf kenmerkt zich, wat mij betreft, met termen als: citrus, romig e
 Een erg lekker biertje met een mooie herinnering aan Riga!
 
 
+<figure><img src='/assets/img/beer_2021-12-25.jpg' alt=''/> <figcaption>TDH Citra Lupomax, Spectrum, Cryo, BBC IPA is een New England IPA van 7%, gebrouwen door Ārpus Brewing Co., Riga, Letland.</figcaption></figure>
