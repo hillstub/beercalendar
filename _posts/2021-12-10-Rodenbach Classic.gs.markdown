@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 10 - Rodenbach Classic
+year: 2021
 permalink:  '/day/10'
 author:  'Jan-Willem'
 description: >
@@ -15,4 +16,4 @@ Dit jaar heb ik eigenlijk vrij weinig speciaalbier gedronken, maar toen ik dit b
 
 Fijn weekend!
 
-<figure><img src='/assets/img/day_10.jpg' alt=''/> <figcaption>Rodenbach Classic is een Vlaams Rood van 5.2%, gebrouwen door Brouwerij Rodenbach.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-10.jpg' alt=''/> <figcaption>Rodenbach Classic is een Vlaams Rood van 5.2%, gebrouwen door Brouwerij Rodenbach.</figcaption></figure>

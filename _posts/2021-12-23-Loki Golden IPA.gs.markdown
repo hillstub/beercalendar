@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 23 - Loki Golden IPA
+year: 2021
 permalink:  '/day/23'
 author:  'Jaap'
 description: >
@@ -14,4 +15,4 @@ description: >
 
 Ik was helaas niet in de gelegenheid om het biertje te proeven, dus even een paar opmerkingen uit de tweede hand: Loki is een lekker drinkbare IPA, met lichte mouten en fruitige hop. In het bier kun je grapefruit en lychee proeven. Ik ben benieuwd!
 
-<figure><img src='/assets/img/day_23.jpg' alt=''/> <figcaption>Loki Golden IPA is een American IPA van 5.5%, gebrouwen door Walhalla.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-23.jpg' alt=''/> <figcaption>Loki Golden IPA is een American IPA van 5.5%, gebrouwen door Walhalla.</figcaption></figure>

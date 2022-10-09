@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 6 - Duvel Tripel Hop Citra Belgian IPA
+year: 2021
 permalink:  '/day/6'
 author:  'Eelco'
 description: >
@@ -11,4 +12,4 @@ description: >
 
 Op Vaccae hebben we heel wat biertjes weggetikt, en de Duvel mocht ook zeker niet ontbreken (zowel uit de fles als via het kastje..). De Duvel Tripel Hop is een fijn bier van de Duvel brouwerij uit Moortgat (op een luttele 20 kilometer van Sint Niklaas). Met een drieslag aan hop soorten, maakt de Citra hop hem in mijn beleving extra lekker (nu heb ik op zich een voorliefde voor IPAs dus ik ben bevooroordeeld). Een goed zwaar belgisch bier ter nagedachtenis aan die lieve Sint.
 
-<figure><img src='/assets/img/day_6.jpg' alt=''/> <figcaption>Duvel Tripel Hop Citra Belgian IPA is een Tripel/IPA van 9.5%, gebrouwen door Brouwerij Duvel Moortgat.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-06.jpg' alt=''/> <figcaption>Duvel Tripel Hop Citra Belgian IPA is een Tripel/IPA van 9.5%, gebrouwen door Brouwerij Duvel Moortgat.</figcaption></figure>

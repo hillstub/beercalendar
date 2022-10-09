@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 17 - Duits & Lauret Extra Blond
+year: 2021
 permalink:  '/day/17'
 author:  'Jan-Willem'
 description: >
@@ -15,4 +16,4 @@ description: >
 
 Tot zover de commerciële aanbevelingen. Bij dit bier heb ik vooral een herinnering aan de tocht van en naar de brouwerij en de setting daar. Met tandems over de Lekdijk naar het fort, bier drinken en dan keihard terugfietsen. Mooi was dat.
 
-<figure><img src='/assets/img/day_17.jpg' alt=''/> <figcaption>Duits & Lauret Extra Blond is een Sterk Blond van 8.5%, gebrouwen door Fortbrouwerij Duits & Lauret.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-17.jpg' alt=''/> <figcaption>Duits & Lauret Extra Blond is een Sterk Blond van 8.5%, gebrouwen door Fortbrouwerij Duits & Lauret.</figcaption></figure>

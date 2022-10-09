@@ -2,6 +2,7 @@
 layout: post
 title: >
   Dag 13 - Tripel karmeliet
+year: 2021
 permalink:  '/day/13'
 author:  'Eelco'
 description: >
@@ -11,4 +12,4 @@ description: >
 
 Tripel Karmeliet was een van de eerste tripels die ik ooit dronk waarbij ik niet meteen dacht: 'oh wat een veel te sterk bier'. Ik meen me zelfs nog de locatie en gezelschap te herinneren: met de Eelke en Harmen in cafe de Winter aan de oude gracht. Enfin, dit bier is zacht van karakter door de kruidige en fruitige smaken van onder andere koriander en sinaasappel. Het heeft iets weg van de belgische witbieren, maar door de toevoeging van gerst en haver is het een stuk sterker en heeft het een licht bittere afdronk. Kennelijk komt de fruitigheid van een speciaal ontwikkelde gist soort - de legende meldt dat deze afkomstig is van een brood van de lokale bakker. Dit bier is goed te combineren met kruidig eten, pak er dus een kruidenkaasje bij - of eet een keer wat pittiger - prima combinatie.
 
-<figure><img src='/assets/img/day_13.jpg' alt=''/> <figcaption>Tripel karmeliet is een Tripel van 8.4%, gebrouwen door Brouwerij Bosteels.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-13.jpg' alt=''/> <figcaption>Tripel karmeliet is een Tripel van 8.4%, gebrouwen door Brouwerij Bosteels.</figcaption></figure>
