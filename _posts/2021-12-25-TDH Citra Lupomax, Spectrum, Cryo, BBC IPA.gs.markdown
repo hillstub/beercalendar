@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 25 - TDH Citra Lupomax, Spectrum, Cryo, BBC IPA
 year: 2021
-permalink:  '/post/2021-08-25'
+permalink:  '/post/2021-12-25'
 author:  'Jilbert'
 description: >
   Een fris, citrus en hoppig biertje uit Riga, Letland!

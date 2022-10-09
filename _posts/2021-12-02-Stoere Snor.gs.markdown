@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 2 - Stoere Snor
 year: 2021
-permalink:  '/post/2021-08-02'
+permalink:  '/post/2021-12-02'
 author:  'Jaap'
 description: >
   Een fruitige IPA. Minder hoppig dan je van een IPA gewend bent.

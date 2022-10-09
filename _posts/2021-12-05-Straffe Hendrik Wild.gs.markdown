@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 5 - Straffe Hendrik Wild
 year: 2021
-permalink:  '/post/2021-08-05'
+permalink:  '/post/2021-12-05'
 author:  'Harmen'
 description: >
   Straffe Hendrik Wild is een wilde variant van de bekende Straffe Hendrik Tripel.
@@ -17,4 +17,4 @@ De standaard 'Straffe Hendrik' is gewoon een degelijke tripel die jullie al wel 
 **Tip**: Proef er een normale Straffe Hendrik naast.
 **Vraag**: Welke andere bieren ken je met deze typische *Brettanomyces* smaak?
 
-<figure><img src='/assets/img/beer_2021-08-05.jpg' alt=''/> <figcaption>Straffe Hendrik Wild is een Tripel van 10%, gebrouwen door de Halve Maan.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-05.jpg' alt=''/> <figcaption>Straffe Hendrik Wild is een Tripel van 10%, gebrouwen door de Halve Maan.</figcaption></figure>

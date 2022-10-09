@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 10 - Rodenbach Classic
 year: 2021
-permalink:  '/post/2021-08-10'
+permalink:  '/post/2021-12-10'
 author:  'Jan-Willem'
 description: >
   Verfrissend biertje met een zuurtje erin. Dit biertype heet Vlaams Rood en naar het schijnt is Rodenbach een van de weinige brouwerijen die dit maakt.
@@ -16,4 +16,4 @@ Dit jaar heb ik eigenlijk vrij weinig speciaalbier gedronken, maar toen ik dit b
 
 Fijn weekend!
 
-<figure><img src='/assets/img/beer_2021-08-10.jpg' alt=''/> <figcaption>Rodenbach Classic is een Vlaams Rood van 5.2%, gebrouwen door Brouwerij Rodenbach.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-10.jpg' alt=''/> <figcaption>Rodenbach Classic is een Vlaams Rood van 5.2%, gebrouwen door Brouwerij Rodenbach.</figcaption></figure>

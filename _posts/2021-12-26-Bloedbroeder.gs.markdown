@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 26 - Bloedbroeder
 year: 2021
-permalink:  '/post/2021-08-26'
+permalink:  '/post/2021-12-26'
 author:  'Harmen'
 description: >
   Kompaan Bloedbroeder is een bier met pure kracht. Deze stout combineert geroosterde moutsoorten met Ruby port. Bloedbroeder werd verkozen tot Beste Bier van Nederland tijdens de Dutch Beer Challenge in 2017.
@@ -16,4 +16,4 @@ Kompaan is een brouwerij in Den Haag en op fietsafstand van ons huis. In 2019 zi
 
 Gelukkig doet dit bier al deze ellende snel weer vergeten. Mijn voorkeur gaat meestal uit naar de wat lichtere biertjes, maar tijdens deze adventskalender ben ik eigenlijk de donkere bieren weer meer gaan waarderen. Dit is een mooi bier om rustig van te genieten bij het haardvuur terwijl de sneeuwvlokken buiten vrolijk naar beneden dwarrelen.
 
-<figure><img src='/assets/img/beer_2021-08-26.jpg' alt=''/> <figcaption>Bloedbroeder is een Imperial Stout van 9.1%, gebrouwen door Kompaan.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-26.jpg' alt=''/> <figcaption>Bloedbroeder is een Imperial Stout van 9.1%, gebrouwen door Kompaan.</figcaption></figure>

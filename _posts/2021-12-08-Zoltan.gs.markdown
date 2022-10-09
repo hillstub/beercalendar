@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 8 - Zoltan
 year: 2021
-permalink:  '/post/2021-08-08'
+permalink:  '/post/2021-12-08'
 author:  'Martin'
 description: >
   Laphroig barrel aged imperial stout (11%) van Van Moll: omdat we even geen whisky drinken.
@@ -12,4 +12,4 @@ description: >
 
 Bier is lekker, maar echte mannen drinken natuurlijk ook whisky. We doen weliswaar een Beery Christmas, maar dat betekent niet dat het helemaal whiskyloos moet. Er zijn bieren die rijpen op whiskyvaten en dat moet natuurlijk ge- en beproefd worden. Het Eindhovense Van Moll heeft bier laten rijpen op vaten van Laphroig. Laphroig is een klassieke Schotse single malt Islay whisky. Rokerig en turfachtig. Het alcolholpercentage van het bier benadert met 11% nog lang niet dat van whisky, maar voorzichtig drinken lijkt toch verstandig. Proost!
 
-<figure><img src='/assets/img/beer_2021-08-08.jpg' alt=''/> <figcaption>Zoltan is een Stout van 11%, gebrouwen door Van Moll.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-08.jpg' alt=''/> <figcaption>Zoltan is een Stout van 11%, gebrouwen door Van Moll.</figcaption></figure>

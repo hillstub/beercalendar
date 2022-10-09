@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 11 - Cuvée Clarisse Whisky Infused Wild Weasel
 year: 2021
-permalink:  '/post/2021-08-11'
+permalink:  '/post/2021-12-11'
 author:  'Jilbert'
 description: >
   Aromatisch prijswinnend bier. Flink aan de alcohol, dus niet voor de nuchtere maag :-)
@@ -19,4 +19,4 @@ Desalniettemin vind ik het biertje  lekker genoeg om deze op onze bierkalender t
 
 Geadviseerde drinktemperatuur: 12-14 °C. Dus even uit de koelkast voordat je deze drinkt!
 
-<figure><img src='/assets/img/beer_2021-08-11.jpg' alt=''/> <figcaption>Cuvée Clarisse Whisky Infused Wild Weasel is een Strong Ale, Infused Beer, Quadrupel van 10.2%, gebrouwen door Brouwerij & Distilleerderij Wilderen, Sint-Truiden (Wilderen) BE.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-11.jpg' alt=''/> <figcaption>Cuvée Clarisse Whisky Infused Wild Weasel is een Strong Ale, Infused Beer, Quadrupel van 10.2%, gebrouwen door Brouwerij & Distilleerderij Wilderen, Sint-Truiden (Wilderen) BE.</figcaption></figure>

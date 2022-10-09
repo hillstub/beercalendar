@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 9 - Edelhert Donker
 year: 2021
-permalink:  '/post/2021-08-09'
+permalink:  '/post/2021-12-09'
 author:  'Jaap'
 description: >
   Een prachtig zwaar en edel bier om rustig van te genieten.

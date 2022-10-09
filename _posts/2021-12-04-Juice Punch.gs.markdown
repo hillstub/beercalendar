@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 4 - Juice Punch
 year: 2021
-permalink:  '/post/2021-08-04'
+permalink:  '/post/2021-12-04'
 author:  'Jilbert'
 description: >
   Een fris, tropisch, zomerbiertje. Naast een lekker biertje krijg je er ook nog een mooi etiket bij!
@@ -28,4 +28,4 @@ Op de website van de brouwerij staat daarover de volgende uitleg:
 
 Rest mij nog een ding te zeggen: Drink smakelijk!
 
-<figure><img src='/assets/img/beer_2021-08-04.jpg' alt=''/> <figcaption>Juice Punch is een New England IPA van 5.8%, gebrouwen door Brouwerij Frontaal Breda.</figcaption></figure>
+<figure><img src='/assets/img/beer_2021-12-04.jpg' alt=''/> <figcaption>Juice Punch is een New England IPA van 5.8%, gebrouwen door Brouwerij Frontaal Breda.</figcaption></figure>
