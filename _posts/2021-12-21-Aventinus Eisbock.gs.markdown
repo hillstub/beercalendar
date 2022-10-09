@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 21 - Aventinus Eisbock
 year: 2021
-permalink:  '/day/21'
+permalink:  '/post/2021-12-21'
 author:  'Eelke'
 description: >
   Zware Duitse jongen met tonen van donkerfruit

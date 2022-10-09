@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 19 - Tank 7
 year: 2021
-permalink:  '/day/19'
+permalink:  '/post/2021-12-19'
 author:  'Harmen'
 description: >
   De Tank 7 Farmhouse Ale is een zware saison met fruitige en kruidige aroma’s en een droge afdronk.

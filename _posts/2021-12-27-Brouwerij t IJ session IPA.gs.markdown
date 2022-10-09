@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 27 - Brouwerij 't IJ session I.P.A
 year: 2021
-permalink:  '/day/27'
+permalink:  '/post/2021-12-27'
 author:  'Eelco'
 description: >
   De session IPA van Brouwerij 't IJ is een bier dat zich kenmerkt door haar lage alcohol percentage (4,0%) en fruitige smaken (Citra en Galaxy hop). Het is zeer makkelijk weg te drinken, en wellicht daardoor echt een bier voor de grote mensen massa. Een bier om te bekomen van al dat zware gedoe in de wereld en op deze kalender.

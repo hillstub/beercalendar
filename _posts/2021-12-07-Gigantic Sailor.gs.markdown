@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 7 - Gigantic Sailor
 year: 2021
-permalink:  '/day/7'
+permalink:  '/post/2021-12-07'
 author:  'Eelke'
 description: >
   Biologische hopgekte in een glas. Amerikaanse hoppen maken dit bier uitgepsproken fruitig. En lekker zoet.

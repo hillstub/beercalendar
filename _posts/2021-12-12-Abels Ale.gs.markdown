@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 12 - Abels Ale
 year: 2021
-permalink:  '/day/12'
+permalink:  '/post/2021-12-12'
 author:  'Harmen'
 description: >
   De verse Australische en Nieuw-Zeelandse hopsoorten, met op de achtergrond een subtiele hint van Thaidragon-pepers maken dit bier de belichaming van de ontdekkingsreizen van Abel Tasman.

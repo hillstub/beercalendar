@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 1 - Gluiperd
 year: 2021
-permalink:  '/day/1'
+permalink:  '/post/2021-12-01'
 author:  'Martin'
 description: >
   De Gluiperd is een blond bier van 8% met toevoeging van appel, peer en vlierbessen uit de boomgaarden van ‘t Goy, een dorpje bij Houten. Een verraderlijk bier, want de frisfruitige smaak maskeert het stevige alcoholpercentage. Een bier om het hele jaar stiekem van te genieten.

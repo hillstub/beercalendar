@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 14 - Gooische Bubbel
 year: 2021
-permalink:  '/day/14'
+permalink:  '/post/2021-12-14'
 author:  'Eelke'
 description: >
   Sprankelende weelde in een flesje

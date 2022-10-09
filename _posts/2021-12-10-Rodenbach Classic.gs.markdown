@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 10 - Rodenbach Classic
 year: 2021
-permalink:  '/day/10'
+permalink:  '/post/2021-12-10'
 author:  'Jan-Willem'
 description: >
   Verfrissend biertje met een zuurtje erin. Dit biertype heet Vlaams Rood en naar het schijnt is Rodenbach een van de weinige brouwerijen die dit maakt.

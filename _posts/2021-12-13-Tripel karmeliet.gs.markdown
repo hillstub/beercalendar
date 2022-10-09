@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 13 - Tripel karmeliet
 year: 2021
-permalink:  '/day/13'
+permalink:  '/post/2021-12-13'
 author:  'Eelco'
 description: >
   Tripel Karmeliet is een zachte goudkleurige tripel van de brouwerij Bosteels uit Buggenhout dat is gemaakt uit drie granen: gerst, haver en tarwe. Dit heerlijke bier met dichte en romige schuimkraag is al sinds dat het op de markt kwam (1996) gelauwerd met meerdere prijzen, waarvan de World Beer Awards de meest prestigieuze, en is mede daardoor een commercieel succes geworden. Desalniettemin is Tripel Karmeliet een complex bier dat goed kan wedijveren met al het lokale microbrouwgeweld, en daarom naar mijn mening niet misstaat op deze adventsbierkalender. 

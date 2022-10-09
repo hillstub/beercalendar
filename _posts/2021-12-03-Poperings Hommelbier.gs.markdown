@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 3 - Poperings Hommelbier
 year: 2021
-permalink:  '/day/3'
+permalink:  '/post/2021-12-03'
 author:  'Jan-Willem'
 description: >
   Hommel is in Vlaanderen niet alleen een dier maar ook hop. In de Vlaamse Westhoek, waar ook Westvleteren terug te vinden is, zijn veel van die plantages waar hop vandaan komt. Dit hoppige hommelbiertje komt daar dus vandaan.

@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 22 - Zwarte Snorre
 year: 2021
-permalink:  '/day/22'
+permalink:  '/post/2021-12-22'
 author:  'Martin'
 description: >
   Twents imperial stout (11%), gerijpt op Vat#50 - Ardbeg whisky.

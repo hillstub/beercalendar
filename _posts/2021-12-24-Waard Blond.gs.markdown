@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 24 - Waard Blond
 year: 2021
-permalink:  '/day/24'
+permalink:  '/post/2021-12-24'
 author:  'Jan-Willem'
 description: >
   Een blond streekbiertje uit de Krimpenerwaard.

@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 18 - Monte Cristo Sherrywood Cuvee
 year: 2021
-permalink:  '/day/18'
+permalink:  '/post/2021-12-18'
 author:  'Jilbert'
 description: >
   Een donker biertje met noot en vanille smaak.

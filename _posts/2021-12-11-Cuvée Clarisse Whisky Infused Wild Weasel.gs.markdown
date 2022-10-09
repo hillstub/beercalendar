@@ -3,7 +3,7 @@ layout: post
 title: >
   Dag 11 - Cuvée Clarisse Whisky Infused Wild Weasel
 year: 2021
-permalink:  '/day/11'
+permalink:  '/post/2021-12-11'
 author:  'Jilbert'
 description: >
   Aromatisch prijswinnend bier. Flink aan de alcohol, dus niet voor de nuchtere maag :-)
