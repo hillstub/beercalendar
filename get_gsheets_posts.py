@@ -88,7 +88,7 @@ for row in rows:
     f.write("layout: post\n")
     f.write(f"title: >\n  Dag {row['Dag']} - {row['Biernaam']}\n")
     f.write(f"year: {year}\n")
-    f.write(f"permalink:  '/day/{row['Dag']}'\n")
+    f.write(f"permalink:  '/post/{row['Datum']}'\n")
     f.write(f"author:  '{row['Toegevoegd door']}'\n")
     f.write(f"description: >\n  {row['Introductie']}\n")
     f.write("---\n")

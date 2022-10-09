@@ -3,9 +3,9 @@
          <h1 class="logo">
             <a href="/">
                 {{ site.title }}
-                {%- if page.year -%}
-                    ({{ page.year }})
-                {%- endif -%}               
+                {%- if page.date -%}
+                    ({{ page.date | date: '%Y' }} )
+                {%- endif -%}            
             </a>
         </h1>
          <nav class="nav-collapse">
