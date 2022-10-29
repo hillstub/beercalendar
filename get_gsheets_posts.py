@@ -61,6 +61,12 @@ for old_post in old_posts:
 for row in rows:
   if(row['Datum'] == ""):
     continue
+  # if row['Datum'] is an integer (i.e. days since 1900-01-01), convert it YYYY-MM-DD
+  if isinstance(row['Datum'], int):
+    row['Datum'] = datetime.datetime(1900, 1, 1) + datetime.timedelta(days=row['Datum'] - 2)
+    row['Datum'] = row['Datum'].strftime('%Y-%m-%d')
+    
+
   row_date = datetime.date.fromisoformat(row['Datum'])
   today = datetime.datetime.now(pytz.timezone('Europe/Amsterdam')).date()
   if row_date <= today:
