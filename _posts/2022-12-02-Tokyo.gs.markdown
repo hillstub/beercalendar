@@ -1,0 +1,19 @@
+---
+layout: post
+title: >
+  Dag 2 - Tokyo
+year: 2022
+permalink:  '/post/2022-12-02'
+author:  'Jaap'
+description: >
+  Een heerlijk fris en pittig witbier van St. Bernardus.
+---
+<p class='intro'><span class='dropcap'>E</span>en heerlijk fris en pittig witbier van St. Bernardus.</p>
+
+Japan is een land waar ik niet zoveel mee heb. Naast dat ik er met mijn lengte waarschijnlijk niet eens rechtop kan staan in de metro, spreekt de cultuur mij niet zo aan. Geen waardeoordeel, maar meer een kwestie van persoonlijke voorkeur. Toch kies ik voor een biertje dat ons een beetje in Japanse sferen brengt. 
+
+De geschiedenis van dit bier gaat terug tot 2012, toen St. Bernardus eenmalig een bier gebrouwen heeft voor de opening van een St. Bernardus café in Tokyo. Vanaf 2020 wordt dit weer gebrouwen, met een verbeterd recept en in een prachtig blikje, waarop het Japanse nachtleven wordt geïllustreerd.
+
+Eind vorig jaar heb ik samen met mijn zwager bieren uitgezocht voor de kerstmaaltijd van onze familie. Op zijn aanraden hebben we toen ook dit bier gekocht. Daar ben ik hem dankbaar voor, want ik heb hiermee een bier ontdekt dat ik erg goed kan waarderen. Het heeft een bijzondere en aangename smaak. Het is een fris bier en tegelijk zit er ook iets pittigs in. Ik ben benieuwd wat jullie ervan vinden!
+
+<figure><img src='/assets/img/beer_2022-12-02.jpg' alt=''/> <figcaption>Tokyo is een Witbier van 6%, gebrouwen door St. Bernardus.</figcaption></figure>
