@@ -14,3 +14,4 @@ Bij mijn bijdrages van dit jaar heb ik de inzendingen ook door anderen laten bep
 Nu is Frankrijk niet gelijk een land wat je associeert met bier. Maar deze Brasserie is gelegen in Noord-Frankrijk, waar de plaatsen ook schitterende Vlaams-achtige namen dragen, als Blendeke, Ruisscheure, Noordpene, Blaringem en Lederzele. Ik vermoed dan ook invloeden vanuit de Belgische biercultuur, want dit biertje doet me ook aan Belgische blonde bieren denken en dat is fijn.
 Geniet ervan!
 
+<figure><img src='/assets/img/beer_2022-12-03.jpg' alt=''/> <figcaption>De Goudale Grand Cru is een Blond van 7.9%, gebrouwen door Brasserie Goudale.</figcaption></figure>
