@@ -1,0 +1,19 @@
+---
+layout: post
+title: >
+  Dag 5 - Nillis
+year: 2022
+permalink:  '/post/2022-12-05'
+author:  'Harmen'
+description: >
+  De naam Nillis is afgeleid uit de latijnse woorden Nihil (niets) en nullus (geen enkel).
+---
+<p class='intro'><span class='dropcap'>D</span>e naam Nillis is afgeleid uit de latijnse woorden Nihil (niets) en nullus (geen enkel).</p>
+
+Mijn eerste bier voor deze adventskalender is de Nillis van de La Trappe brouwerij. Zoals de naam al doet vermoeden, is dit een trappistenbier zonder alcohol - een wereldprimeur! Tijdens een bezoek afgelopen zomer aan de brouwerij heb ik dit bier voor het eerst geproefd. Ik vond het verrassend lekker, met een moutige smaak maar toch ook een frisse afdronk.
+
+Ik ben wel fan van La Trappe - ze brouwen fantastische bieren op een idyllische plek. Tijdens een kampeervakantie met de Epifanen hebben we hier op een regenachtige dag mogen schuilen, en we hebben bijna de hele dag spelletjes gespeeld en bier gedronken - mooie herinneringen! 
+
+Dit is mijn enige alcoholvrije bijdrage aan deze kalender - elke week ga ik iets omhoog in alcoholpercentage. Zelfs met dit alcoholvrije bier is het gemiddelde alcoholpercentage nog steeds 6.4% - niet echt iets om je zorgen over te maken dus.
+
+<figure><img src='/assets/img/beer_2022-12-05.jpg' alt=''/> <figcaption>Nillis is een Amber 0.0 van 0%, gebrouwen door La Trappe.</figcaption></figure>
