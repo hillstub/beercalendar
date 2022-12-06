@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  Dag 6 - Saint Hubertus Wit
+  Dag 6 - Sint Hubertus Wit
 year: 2022
 permalink:  '/post/2022-12-06'
 author:  'Eelco'
@@ -22,4 +22,4 @@ Samenvattend, een licht verfrissend bier om te bekomen van de jacht des levens e
 
 
 
-<figure><img src='/assets/img/beer_2022-12-06.jpg' alt=''/> <figcaption>Saint Hubertus Wit is een Blanche - Wit van 5.2%, gebrouwen door Brouwerij Roman te Mater (Oudenaarde) i.o.v. Carlsberg Group.</figcaption></figure>
+<figure><img src='/assets/img/beer_2022-12-06.jpg' alt=''/> <figcaption>Sint Hubertus Wit is een Blanche - Wit van 5.2%, gebrouwen door Brouwerij Roman te Mater (Oudenaarde) i.o.v. Carlsberg Group.</figcaption></figure>
