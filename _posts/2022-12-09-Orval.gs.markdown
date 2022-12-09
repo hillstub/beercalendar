@@ -1,0 +1,19 @@
+---
+layout: post
+title: >
+  Dag 9 - Orval
+year: 2022
+permalink:  '/post/2022-12-09'
+author:  'Jaap'
+description: >
+  Het buitenbeentje onder de Belgische trappistenbieren.
+---
+<p class='intro'><span class='dropcap'>H</span>et buitenbeentje onder de Belgische trappistenbieren.</p>
+
+Dit bier wordt gebrouwen door de trappisten van Orval. De naam Orval is al mooi. Dit komt van Val d'Or, oftewel gouden dal. Dit is een toepasselijke naam voor een plaats waar goudkleurig vocht gebrouwen wordt. Al moet ik eerlijk toegeven dat de kleur van dit bier meer amber dan goud is.
+
+Ik vind het een fijn bier om te proeven. Er zit een wat bittere smaak aan die meteen opvalt. De bijzondere smaak van dit bier komt volgens de beschrijving op Untappd doordat er op twee momenten tijdens het productieproces hop wordt toegevoegd: tijdens het brouwen wordt hop toegevoegd en vervolgens wordt gebruik gemaakt van de drooghopmethode. Deze methode wordt ook toegepast bij de Britse Pale Ale. De smaak doet met wat fantasie ook wel denken aan Britse bieren. 
+
+Ik zou zeggen: ga ervan genieten! Proost!
+
+<figure><img src='/assets/img/beer_2022-12-09.jpg' alt=''/> <figcaption>Orval is een Belgian Pale Ale van 6.2%, gebrouwen door Brasserie d'Orval.</figcaption></figure>
