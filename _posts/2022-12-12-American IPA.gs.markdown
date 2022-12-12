@@ -14,9 +14,9 @@ Afgelopen zomer, hebben we een heerlijke vakantie genoten in Spanje, ten noorden
 
 
 > In a summer's days of yore,
-> We travelled south to Spain,
-> To a campsite close to shore,
-> Where the beer did flow like rain.
+We travelled south to Spain,
+To a campsite close to shore,
+Where the beer did flow like rain.
 
 > The owner's son did brew,
 > A tasty IPA so fine,
