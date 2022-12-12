@@ -13,10 +13,10 @@ description: >
 Afgelopen zomer, hebben we een heerlijke vakantie genoten in Spanje, ten noorden van Girona. Op de camping waar we verbleven, was er elk weekend een bar waar het bier van de zoon van de campingbaas werd getapt. Naast deze IPA, hadden ze ook een heerlijke (Imperial) stout. Uiteindelijk heb ik besloten dit IPA bier mee naar huis te nemen. Geniet ervan en waan je - terwijl de sneeuwvlokken neerdwarrelen - heel even in het zonnige Spanje.
 
 
-> In a summer's days of yore,
-We travelled south to Spain,
-To a campsite close to shore,
-Where the beer did flow like rain.
+>In a summer's days of yore,
+>We travelled south to Spain,
+>To a campsite close to shore,
+>Where the beer did flow like rain.
 
 > The owner's son did brew,
 > A tasty IPA so fine,
