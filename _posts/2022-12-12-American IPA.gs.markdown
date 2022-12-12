@@ -13,29 +13,29 @@ description: >
 Afgelopen zomer, hebben we een heerlijke vakantie genoten in Spanje, ten noorden van Girona. Op de camping waar we verbleven, was er elk weekend een bar waar het bier van de zoon van de campingbaas werd getapt. Naast deze IPA, hadden ze ook een heerlijke (Imperial) stout. Uiteindelijk heb ik besloten dit IPA bier mee naar huis te nemen. Geniet ervan en waan je - terwijl de sneeuwvlokken neerdwarrelen - heel even in het zonnige Spanje.
 
 
->In a summer's days of yore,
->We travelled south to Spain,
->To a campsite close to shore,
+>In a summer's days of yore,\
+>We travelled south to Spain,\
+>To a campsite close to shore,\
 >Where the beer did flow like rain.
 
-> The owner's son did brew,
-> A tasty IPA so fine,
-> We sipped it as the sun did set,
+> The owner's son did brew,\
+> A tasty IPA so fine,\
+> We sipped it as the sun did set,\
 > And felt its warmth divine.
 
-> But there was more to taste,
-> A rich and creamy stout,
-> We drank it by the fire's glow,
+> But there was more to taste,\
+> A rich and creamy stout,\
+> We drank it by the fire's glow,\
 > And danced and sang and shouted.
 
-> So we took some beer to go,
-> To savor in the cold,
-> As snowflakes gently fall,
+> So we took some beer to go,\
+> To savor in the cold,\
+> As snowflakes gently fall,\
 > We dream of days of old.
 
-> And though our trip is done,
-> We'll never forget the fun,
-> Of sipping beer beneath the sun,
+> And though our trip is done,\
+> We'll never forget the fun,\
+> Of sipping beer beneath the sun,\
 > In Spain, where days are won.
 
 <figure><img src='/assets/img/beer_2022-12-12.jpg' alt=''/> <figcaption>American IPA is een IPA van 5.8%, gebrouwen door Hopsters.</figcaption></figure>
