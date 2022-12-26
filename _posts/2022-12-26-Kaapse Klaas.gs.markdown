@@ -14,7 +14,7 @@ Zoals eerder gezegd heb ik het zwaarste biertje voor het laatst gehouden. Dit bi
 
 De Kaapse Klaas is qua receptuur eigenlijk hetzelfde als de Kaapse Gozer - hun imperial stout met mooie volle aroma’s van koffie en karamel. Er is echter één verschil: Er zijn speculaaskruiden toegevoegd aan de Kaapse Klaas. In eerste instantie was ik een beetje sceptisch, maar ik vind dat deze toevoeging goed uitpakt.
 
-Ga lekker met de voeten omhoog, zet mooi [kerstmuziek](https://open.spotify.com/album/48eINR6FEINQEvDTrbig9X) op, nip van dit bier en geniet!
+Ga lekker met de voeten omhoog, zet mooie [kerstmuziek](https://open.spotify.com/album/48eINR6FEINQEvDTrbig9X) op, nip van dit bier en geniet!
 
 PS: Drink het bier niet te koud, rond de 10-12 *C komt hij het beste tot z'n recht.
 
