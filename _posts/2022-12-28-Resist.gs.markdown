@@ -1,0 +1,15 @@
+---
+layout: post
+title: >
+  Dag 28 - Resist
+year: 2022
+permalink:  '/post/2022-12-28'
+author:  'Eelke'
+description: >
+  komt later
+---
+<p class='intro'><span class='dropcap'>k</span>omt later</p>
+
+komt later
+
+<figure><img src='/assets/img/beer_2022-12-28.jpg' alt=''/> <figcaption>Resist is een Imperial IPA van 9%, gebrouwen door Oproer.</figcaption></figure>
