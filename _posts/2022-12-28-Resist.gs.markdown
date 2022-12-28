@@ -6,10 +6,10 @@ year: 2022
 permalink:  '/post/2022-12-28'
 author:  'Eelke'
 description: >
-  komt later
+  Dikke IPA van Oproer. Zwaar spul voor zware tijden. 
 ---
-<p class='intro'><span class='dropcap'>k</span>omt later</p>
+<p class='intro'><span class='dropcap'>D</span>ikke IPA van Oproer. Zwaar spul voor zware tijden. </p>
 
-komt later
+Dit jaar ben ik veel met de titel van het biertje bezig geweest. Hoe biedt je weerstand tegen de machine. Hebben we Oproer nodig, hoe ziet dat eruit en hoe maak je dat? Ik las Rosa Luxemburg en Andrea Malm. Deed acties bij Code Rouge en Greenpeace. Soms vraag je af wat je gaande houdt omdat het allemaal weinig zin heeft. Het antwoordt is behoorlijk aards. Ik ontmoet fijne mensen en na afloop wordt er een goede pot bier gedronken. Misschien is dit het ideale wereldverbeteraarsbier: zwaar spul waar je lekker licht in het hoofd van wordt.
 
 <figure><img src='/assets/img/beer_2022-12-28.jpg' alt=''/> <figcaption>Resist is een Imperial IPA van 9%, gebrouwen door Oproer.</figcaption></figure>
