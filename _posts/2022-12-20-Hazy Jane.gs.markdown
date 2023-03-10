@@ -24,3 +24,4 @@ ps3: voor de aficionados: hopsoorten - Cascade , Citra, Mosaic, Simcoe; granen -
 
 
 
+<figure><img src='/assets/img/beer_2022-12-20.jpg' alt=''/> <figcaption>Hazy Jane is een Hazy IPA (New England IPA style) van 5%, gebrouwen door BrewDog (Ellon, Scotland).</figcaption></figure>
