@@ -1,0 +1,18 @@
+---
+layout: post
+title: >
+  Dag 3 - Frisky
+year: 2023
+permalink:  '/post/2023-12-03'
+author:  'Jan-Willem'
+description: >
+  Een New England IPA mag niet ontbreken op de lijst van dit jaar, dus daarom heb ik er - voor de zekerheid - maar eentje toegevoegd.
+---
+<p class='intro'><span class='dropcap'>E</span>en New England IPA mag niet ontbreken op de lijst van dit jaar, dus daarom heb ik er - voor de zekerheid - maar eentje toegevoegd.</p>
+
+Een New England IPA mag niet ontbreken op de lijst, dus daarom heb ik er - voor de zekerheid - maar eentje toegevoegd. Dit keer eentje uit Utereg van Van der Streek. Als je je biertje opent, vliegen de fruitsmaken je tegemoet, best goed weg te drinken vond ik.
+
+Maar die naam? Klonk voor mijn gevoel een beetje Scandinavisch. Maar Frisky is gewoon een Engels woord en het betekent zoiets als “playful and full of energy”. Het etymologisch woordenboek er bijgepakt en het heeft verwachtschap met het Middelnederlandse woord vrisch.
+Geniet u allen van uw Vrische biertje, vrienden!
+
+<figure><img src='/assets/img/beer_2023-12-03.jpg' alt=''/> <figcaption>Frisky is een New England IPA van 4.4%, gebrouwen door Van de Streek.</figcaption></figure>
