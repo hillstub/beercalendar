@@ -1,0 +1,17 @@
+---
+layout: post
+title: >
+  Dag 5 - >DIPA
+year: 2023
+permalink:  '/post/2023-12-05'
+author:  'Harmen'
+description: >
+  Een volle romige zware Double IPA met 7 verschillende soorten hop.
+---
+<p class='intro'><span class='dropcap'>E</span>en volle romige zware Double IPA met 7 verschillende soorten hop.</p>
+
+Dit jaar blijf ik met mijn bieren in de lage landen. We beginnen in Hillegom en reizen met zevenmijlslaarzen in een Z-beweging door Nederland en België richting het eindpunt, Aywaille. 
+
+Deze Double IPA van Klein Duimpje laat weer zien hoe losjes gedefiniëerd de IPA-achtige bieren zijn. Ik heb het vermoeden dat definities van IPA, Double IPA, Triple IPA, NEIPA, Haze IPA, APA, etc. heel erg lokaal zijn. Deze >DIPA is bijvoorbeeld bijzonder moutig, bijna tegen een barley wine aan (een bier wat ook niet heel strikt gedefinieerd is). Andere (Amerikaanse) DIPAs zijn daarentegen weer veel frisser, zelfs met een vergelijkbaar alcoholgehalte. Hoe dan ook is dit een bier wat je eigenlijk zo vers mogelijk dient te drinken. Zo komen de hoppen het best tot hun recht. Kunnen jullie trouwens proeven of er nu met 4 of 5 hoppen is gedryhopt?
+
+<figure><img src='/assets/img/beer_2023-12-05.jpg' alt=''/> <figcaption>>DIPA is een Double IPA van 9%, gebrouwen door Klein Duimpje.</figcaption></figure>
