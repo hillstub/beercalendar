@@ -1,0 +1,20 @@
+---
+layout: post
+title: >
+  Dag 8 - Zoltan
+year: 2023
+permalink:  '/post/2023-12-08'
+author:  'Martin'
+description: >
+  Vanwege een whiskyproeverij vanavond leek het me goed om in te drinken met dit bier van Van Moll. Bij onze eerste bierkalender had ik ook een whisky-bier van deze brouwerij dat goed in de smaak viel.
+---
+<p class='intro'><span class='dropcap'>V</span>anwege een whiskyproeverij vanavond leek het me goed om in te drinken met dit bier van Van Moll. Bij onze eerste bierkalender had ik ook een whisky-bier van deze brouwerij dat goed in de smaak viel.</p>
+
+Van de [website](https://vanmollcraftbeer.com/zoltan-tobermory/): 
+Zoltan, de hond van Dracula. Zoltan, het karakter (en het handgebaar) uit de film “Dude, where’s my car?”. Zoltan, de waarzegger in de gelijknamige kermis-machine. En Zoltan, de Hongaarse jongensnaam die “Sultan” betekent.
+
+Maar vooral: Zoltan, onze dikste, meest complexe barrel-aged imperial stout! Telkens gerijpt op andere whisky- en whiskeyvaten.
+
+De nieuwste editie heeft gerijpt op Tobermory whiskyvaten. Deze, van het eiland Mull afkomstige whisky, zorgt voor een levendig palet van zoet fruit en specerijen, rijke vanilletonen en een subtiele zoutheid als afspiegeling van het omringende water bij Tobermory! Ga daar maar eens goed voor zitten!
+
+<figure><img src='/assets/img/beer_2023-12-08.jpg' alt=''/> <figcaption>Zoltan is een Tobermory barrel aged imperial stout van 11%, gebrouwen door Van Moll.</figcaption></figure>
