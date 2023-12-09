@@ -1,0 +1,18 @@
+---
+layout: post
+title: >
+  Dag 9 - Ptch Blck
+year: 2023
+permalink:  '/post/2023-12-09'
+author:  'Jaap'
+description: >
+  Een black IPA. 
+---
+<p class='intro'><span class='dropcap'>E</span>en black IPA. </p>
+
+Een element dat onmiskenbaar bij het thema ‘De zee’ hoort, is de vuurtoren. Vroeger noodzakelijk voor navigatie op zee, nu minder noodzakelijk, maar zeker interessant als erfgoed van de tijd voordat schepen standaard GPS, radars en weet ik wat allemaal aan boord hadden. Op het biertje van vanavond staat een mooie vuurtoren afgebeeld.
+
+Het bier waar we het over hebben is de Ptch Blck. Als je hem inschenkt, lijkt het alsof het een stout is, maar niets is minder waar. Het is een zwarte IPA. De combinatie zwart en IPA was ik nog nooit eerder tegengekomen. Ik heb hem gekocht zonder zeker te weten hoe deze smaakt. Maar het proefexemplaar, onder invloed waarvan ik dit stukje schrijf, bevalt mij prima. Er zit een vrij lichte IPA smaak aan. Ik zou zeggen: geniet ervan!
+
+
+<figure><img src='/assets/img/beer_2023-12-09.jpg' alt=''/> <figcaption>Ptch Blck is een Black IPA van 7.6%, gebrouwen door Rigters.</figcaption></figure>
