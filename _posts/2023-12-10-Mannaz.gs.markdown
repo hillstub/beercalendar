@@ -1,0 +1,22 @@
+---
+layout: post
+title: >
+  Dag 10 - Mannaz
+year: 2023
+permalink:  '/post/2023-12-10'
+author:  'Jan-Willem'
+description: >
+  In de schaduw van de historische IJssel, in het charmante Krimpen aan den IJssel, brengt Brouwerij IJssel een meesterwerk voort dat de brug slaat tussen het heden en het Germaanse verleden - Mannaz Dubbel.
+---
+<p class='intro'><span class='dropcap'>I</span>n de schaduw van de historische IJssel, in het charmante Krimpen aan den IJssel, brengt Brouwerij IJssel een meesterwerk voort dat de brug slaat tussen het heden en het Germaanse verleden - Mannaz Dubbel.</p>
+
+In de schaduw van de historische IJssel, in het charmante Krimpen aan den IJssel, brengt Brouwerij IJssel een meesterwerk voort dat de brug slaat tussen het heden en het Germaanse verleden - Mannaz Dubbel.
+Met respect voor traditie en vakmanschap heeft Brouwerij IJssel deze Dubbel geboetseerd, waarbij de Germaanse rune "Mannaz" als inspiratiebron diende. Deze keuze geeft niet alleen het bier een mystiek tintje, maar weerspiegelt ook de diepe wortels van dit brouwsel in de geschiedenis.
+Het brouwproces is doordrenkt van ambacht en toewijding. Vier soorten mout, waaronder Pils- en Palemout, creëren een stevige basis. De toevoeging van Mroost 900 en Special B geeft deze Dubbel zijn kenmerkende diepbruine kleur en complexe smaakprofiel.
+De hopkeuzes, Cascade en Hallertau Mittelfrüh, voegen niet alleen subtiele bitterheid toe, maar ook een verfijnd aroma. De harmonie tussen hop en mout wordt verder versterkt door de toevoeging van kandij suiker en zoethout tijdens het koken, waardoor een rijke gelaagdheid van smaken ontstaat.
+De Fermentis SafAle US-05 gist brengt het recept tot volle bloei, waarbij esters en fenolen samenkomen in een perfect evenwicht.
+Wat Mannaz Dubbel nog specialer maakt, is de plaats waar het tot leven komt - Brouwerij IJssel in Krimpen aan den IJssel. Laat je onderdompelen in de geschiedenis van deze betoverende plek terwijl je geniet van een glas Mannaz Dubbel. Proost op de verbinding tussen traditie en innovatie, een ode aan het Germaanse verleden, gebrouwen aan de oevers van de IJssel.
+
+Dit bericht is gegenereerd met behulp van AI.
+
+<figure><img src='/assets/img/beer_2023-12-10.jpg' alt=''/> <figcaption>Mannaz is een Dubbel van 6.5%, gebrouwen door Brouwerij IJssel.</figcaption></figure>
