@@ -1,0 +1,22 @@
+---
+layout: post
+title: >
+  Dag 18 - Hop de Kop
+year: 2023
+permalink:  '/post/2023-12-18'
+author:  'Jilbert'
+description: >
+  Een nieuw stevig Apeldoorns bier!
+---
+<p class='intro'><span class='dropcap'>E</span>en nieuw stevig Apeldoorns bier!</p>
+
+In Apeldoorn is aan de Koninginnelaan een leuke bierwinkeltje gevestigd; Hopdonders. Afgelopen jaren heb ik diverse biertjes voor onze kalender bij deze winkel gekocht. Diverse biertjes uit binnen- en buitenland worden hier verkocht.
+
+Op hun eigen bierfestival 'TerrasHop' hebben ze, in Juni van dit jaar, hun eigen bier gelanceerd: Hop de Kop. Gebrouwen door Brouwerij De Werf uit Enkhuizen.
+Een Apeldoorns bier dat alleen geschonken in café De Hamer in Apeldoorn en dus op fles/blik verkrijgbaar is.
+Eigenlijk wilde ik dit jaar een biertje van Puik Bieren (puikbieren.nl) uit Apeldoorn op de kalender zetten, maar helaas was het lekkere bier 'Route 055' niet meer op de fles verkrijgbaar.
+
+Drink smakelijk!
+
+
+<figure><img src='/assets/img/beer_2023-12-18.jpg' alt=''/> <figcaption>Hop de Kop is een Belgian Strong Golden Ale van 9%, gebrouwen door Brouwerij de Werf i.s.m. Hopdonders.</figcaption></figure>
