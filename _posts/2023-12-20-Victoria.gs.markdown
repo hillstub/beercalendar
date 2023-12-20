@@ -1,0 +1,26 @@
+---
+layout: post
+title: >
+  Dag 20 - Victoria
+year: 2023
+permalink:  '/post/2023-12-20'
+author:  'Eelco'
+description: >
+  Een relatief jong bier van de grote commerciële brouwer AB-InBev, naar ik mij heb laten vertellen om Duvel naar de kroon te steken - zeg het maar..
+---
+<p class='intro'><span class='dropcap'>E</span>en relatief jong bier van de grote commerciële brouwer AB-InBev, naar ik mij heb laten vertellen om Duvel naar de kroon te steken - zeg het maar..</p>
+
+In 2020 heeft AB InBev een nieuw bier gelanceerd met de naam Victoria
+
+Het lijkt er sterk op dat AB InBev de uitdaging zijn aangaan met niemand minder dan Duvel. Het etiket vertelt het verhaal van aartsengel Michaël die in 1695 de stad Brussel de duvel (het kwaad..) een serieuze rechtse hoek geeft – dat maakt Victoria volgens AB InBev dus een subtiel bier..
+
+Wat het verder nog interessant maakt, is dat de naam Victoria behoorlijk dichtbij Victory Ale (einde WWI) komt, de oorspronkelijke naam van Duvel. Het lijkt erop dat AB InBev de handschoen heeft opgepakt, een ware oorlog in bierland :).
+
+Goed je kunt zo je bedenkingen hebben over de slaagkansen tov Duvel, men noeme het etiket dat er wat ouderwets uitziet en wellicht moeten we ook concluderen dat de smaak niet kan tippen aan een Duvel. Goed je moet wat als je een grote commerciële biergigant bent! Ben benieuwd of jullie deze al een keer gehad hebben en wat je er van vindt. Geniet ervan!
+
+nb. nog wat info her en der van het internet geplukt over de smaak:
+Victoria is een sterk blond verfrissend degustatiebier van 8,5% met een subtiele bitterheid en droge afdronk. De brouwers selecteerden de fijnste rijst(!) om Victoria een pure smaak en een heldere gouden kleur te geven.
+
+Het verfrissend kruidig hoparoma dat typisch is voor een klassiek sterk Belgisch blond bier is perfect gebalanceerd met fruitige toetsen afkomstig van de drie hop variëteiten, waaronder de edelhop Saaz en Fuggle.
+
+<figure><img src='/assets/img/beer_2023-12-20.jpg' alt=''/> <figcaption>Victoria is een strong belgian blond beer van 8.5%, gebrouwen door Anheuser-Busch Inbev.</figcaption></figure>
